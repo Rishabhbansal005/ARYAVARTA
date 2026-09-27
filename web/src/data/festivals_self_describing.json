@@ -1,0 +1,732 @@
+[
+  {
+    "id": "makar-sankranti",
+    "name": {
+      "en": "Makar Sankranti & Winter Solar Harvest",
+      "native": "मकर संक्रान्ति • பொங்கல் • ਲੋਹੜੀ • ઉત્તરાયણ"
+    },
+    "date": "2026-01-14",
+    "dateNote": "Astronomical Solar Transition – Sun enters Capricorn (Makar Rashi)",
+    "tradition": "harvest-seasonal",
+    "regions": ["All India"],
+    "regionalNames": [
+      {
+        "region": "Punjab & Northern Plains",
+        "localName": "Lohri / Maghi",
+        "note": "Night bonfire with rewri, peanuts, and bhangra marking the rabi harvest eve.",
+        "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Offering sesame brittle and popcorn to the sacred bonfire chanting 'Aadar aye, dilather jaye'."
+      },
+      {
+        "region": "Tamil Nadu",
+        "localName": "Pongal",
+        "note": "Four-day agrarian thanksgiving where freshly harvested rice and milk boil over in clay pots ('Pongalo Pongal!').",
+        "image": "https://images.unsplash.com/photo-1610484826967-09c5720778c7?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Cooking sweet Jaggery Pongal in decorated clay pots facing the morning sun."
+      },
+      {
+        "region": "Gujarat & Rajasthan",
+        "localName": "Uttarayan",
+        "note": "Spectacular aerial kite festival filling rooftops with millions of colorful fighting kites (patangs).",
+        "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Rooftop kite battles shouting 'Kai Po Che!' and savoring Undhiyu and sesame chikki."
+      },
+      {
+        "region": "Maharashtra & Deccan",
+        "localName": "Makar Sankranti",
+        "note": "Exchange of multicolored til-gul laddoos with the benediction 'Til-gul ghya, god god bola'.",
+        "image": "https://images.unsplash.com/photo-1610484826967-09c5720778c7?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Haldi-Kunku ceremonies for married women and black saree attire absorbing winter sunlight."
+      },
+      {
+        "region": "Assam & Northeast",
+        "localName": "Magh Bihu / Bhogali Bihu",
+        "note": "Feast-oriented harvest festival marked by makeshift bamboo bhelaghar huts and meji bonfires.",
+        "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Community feasting inside bamboo pavilions followed by early dawn bonfire prayers."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Vibrant soaring kites and festive family celebrations during Uttarayan and Makar Sankranti",
+      "verified": true
+    },
+    "summary": "Ancient solar harvest thanksgiving celebrating Surya's northward transit (Uttarayan) with kites, sacred bonfires, and sesame sweets.",
+    "lore": {
+      "text": {
+        "en": "Unlike most Indian festivals that shift with lunar tithis, Makar Sankranti is anchored to the sidereal solar zodiac. It marks the day the sun enters Capricorn (Makara), heralding longer daylight and the retreat of winter. In the Mahabharata, the great patriarch Bhishma waited upon his bed of arrows for this auspicious Uttarayan dawn to attain liberation. Across Bharat, the festival weaves agriculture, astronomy, and cuisine into an extraordinary tapestry of gratitude.",
+        "hi": "मकर संक्रांति सूर्य के मकर राशि में प्रवेश और उत्तरायण यात्रा का पावन पर्व है। यह शीत ऋतु के समापन, रबी फसल के आगमन और प्रकृति के प्रति कृतज्ञता का प्रतीक है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "custom",
+        "label": { "en": "Explore Regional Celebrations", "native": "क्षेत्रीय परंपराएं" },
+        "icon": "MapPin",
+        "description": "Switch between Pongal, Lohri, Uttarayan, and Magh Bihu to experience how India celebrates this harvest.",
+        "actionComponent": "regional-map-toggle"
+      },
+      {
+        "type": "food",
+        "label": { "en": "Prepare Til-Gud Laddoos", "native": "तिल-गुड़ लड्डू बनाएं" },
+        "icon": "Utensils",
+        "description": "Roasted white sesame seeds and melted sugarcane jaggery infused with green cardamom.",
+        "actionComponent": "prepare-dish",
+        "data": {
+          "dishName": "Til-Gud Laddoos & Khichdi",
+          "origin": "Pan-India Winter Traditional",
+          "ingredients": [
+            "White Sesame Seeds (Til) – 200g",
+            "Organic Sugarcane Jaggery (Gur) – 200g",
+            "Crushed Cardamom Seeds – 1 tsp",
+            "Roasted Peanuts – 50g",
+            "Pure Desi Ghee – 1 tbsp"
+          ],
+          "instructions": [
+            "Dry roast white sesame seeds on low heat until they pop and release an aromatic nutty fragrance.",
+            "Melt pure jaggery with a spoonful of ghee until it bubbles into a soft syrup stage.",
+            "Fold in roasted sesame, crushed peanuts, and cardamom powder; blend thoroughly.",
+            "Grease palms with warm ghee and roll into golden spheres while warm, chanting 'God god bola'!"
+          ],
+          "culturalNote": "Sesame generates thermal warmth for winter while jaggery symbolizes sweetness in human relations."
+        }
+      },
+      {
+        "type": "ritual",
+        "label": { "en": "Harvest Fire Offering", "native": "अग्नि अर्पण" },
+        "icon": "Flame",
+        "description": "Offer seasonal grains, rewri, and sesame into the sacred winter bonfire.",
+        "actionComponent": "bonfire-offering",
+        "data": {
+          "chant": "Aadar aye, dilather jaye! (May prosperity enter, may scarcity depart!)",
+          "significance": "Honoring Agni and Surya for nourishing the winter rabi crops."
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Bhupali", "Raga Kafi"],
+      "danceForms": ["Bhangra", "Karagattam"],
+      "crafts": ["Kite Craft (Patang-Manja)", "Clay Pottery"],
+      "monuments": ["Konark Sun Temple", "Modhera Sun Temple"]
+    }
+  },
+  {
+    "id": "eid-ul-fitr",
+    "name": {
+      "en": "Eid ul-Fitr",
+      "native": "عيد الفطر • ईदुल फ़ित्र"
+    },
+    "date": "2026-03-20",
+    "dateNote": "Islamic Lunar Calendar (1 Shawwal) – date subject to verified crescent moon sighting",
+    "tradition": "islamic",
+    "regions": ["All India", "Jammu & Kashmir", "Kerala", "Uttar Pradesh", "Telangana", "West Bengal"],
+    "regionalNames": [
+      {
+        "region": "Delhi & Awadh",
+        "localName": "Meethi Eid",
+        "note": "Dawn congregational prayers at historic mosques followed by lavish family sewaiyan feasts and ittar greetings.",
+        "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Wearing new white kurtas scented with gulab and khus ittar and giving Eidi to children."
+      },
+      {
+        "region": "Kerala (Malabar)",
+        "localName": "Cheriya Perunnal",
+        "note": "Dawn Takbeerat across Malabar coast and traditional Mappila festive dishes like Kozhi Biryani and Muttamaala.",
+        "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Community Zakat distribution ensuring every family has grain and festival feast."
+      },
+      {
+        "region": "Hyderabad (Deccan)",
+        "localName": "Eid-e-Milad",
+        "note": "Charminar and Mecca Masjid illuminate; traditional Sheer Khurma distributed across all communities.",
+        "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Deccani communal harmony where neighbors of all faiths visit for Sheer Khurma."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Historic Jama Masjid courtyard during festive dawn prayers and crescent celebration",
+      "verified": true
+    },
+    "summary": "Joyous festival concluding the holy fasting month of Ramadan, marked by crescent sighting, charitable Zakat, and sweet Sheer Khurma.",
+    "lore": {
+      "text": {
+        "en": "Eid ul-Fitr ('Festival of Breaking the Fast') begins with the sighting of the delicate crescent moon (Hilal) marking the first of Shawwal. After thirty days of dawn-to-dusk spiritual devotion, fasting (Sawm), and empathy with the needy, communities gather for early morning Eid prayers. An obligatory charitable offering (Zakat al-Fitr) is fulfilled before prayers so that no one in the city goes without festival meals. The air fills with the aroma of cardamoms, dates, and slow-simmered Sheer Khurma.",
+        "hi": "ईद-उल-फ़ित्र रमज़ान के मुक़द्दस महीने के रोज़ों के मुकम्मल होने पर चाँद के दीदार के साथ मनाया जाने वाला रहमत और मोहब्बत का त्यौहार है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "custom",
+        "label": { "en": "Sight the Shawwal Crescent", "native": "हिलाल चाँद दर्शन" },
+        "icon": "Moon",
+        "description": "Observe the waxing crescent moon in the twilight sky as sighted by astronomers and elders.",
+        "actionComponent": "night-sky-crescent",
+        "data": {
+          "lunarPhase": "Waxing Crescent (Hilal)",
+          "calendar": "Islamic Lunar Hijri 1447",
+          "greeting": "Eid Mubarak! May peace, light, and barakah embrace your home."
+        }
+      },
+      {
+        "type": "food",
+        "label": { "en": "Simmer Sheer Khurma", "native": "शी़र ख़ुरमा विधि" },
+        "icon": "Utensils",
+        "description": "Traditional sweet vermicelli slow-cooked in rich whole milk with dry dates, chironji, and saffron.",
+        "actionComponent": "prepare-dish",
+        "data": {
+          "dishName": "Shahi Sheer Khurma",
+          "origin": "Indo-Islamic Royal Festive Tradition",
+          "ingredients": [
+            "Fine Roasted Vermicelli (Sewaiyan) – 150g",
+            "Full Cream Cow/Buffalo Milk – 1.5 Litres",
+            "Dry Dates (Chhuara), soaked and sliced – 8 pcs",
+            "Pistachios, Almonds, Chironji, and Cashews – 100g",
+            "Pure Desi Ghee – 2 tbsp",
+            "Saffron Strands (Kesar) & Kewra Water – 1 tsp",
+            "Sugar or Condensed Milk – to taste"
+          ],
+          "instructions": [
+            "Saute sliced dry dates and dry fruits gently in pure desi ghee until crisp and fragrant.",
+            "Roast the fine vermicelli in the remaining ghee until it turns a deep golden hue.",
+            "Simmer whole milk on low flame until reduced by one-third, infusing saffron strands.",
+            "Add the roasted vermicelli and nuts; slow cook for 10 minutes until luscious.",
+            "Finish with a dash of kewra water and serve warm to family and visiting guests with 'Eid Mubarak'!"
+          ],
+          "culturalNote": "The word 'Sheer' means milk and 'Khurma' means dates in Persian; it represents hospitable celebration."
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Yaman", "Raga Bhairavi"],
+      "danceForms": ["Kathak"],
+      "crafts": ["Zardozi Embroidery", "Ittar Perfumery"],
+      "monuments": ["Jama Masjid Delhi", "Taj Mahal"]
+    }
+  },
+  {
+    "id": "holi",
+    "name": {
+      "en": "Holi — Festival of Colors & Spring",
+      "native": "होली • ধোলযাত্রা • வஸந்தோத்ஸவம்"
+    },
+    "date": "2026-03-04",
+    "dateNote": "Purnima (Full Moon) of Phalguna month",
+    "tradition": "hindu",
+    "regions": ["All India", "Uttar Pradesh", "Rajasthan", "Bihar", "West Bengal", "Madhya Pradesh"],
+    "regionalNames": [
+      {
+        "region": "Braj (Mathura & Vrindavan)",
+        "localName": "Lathmar & Phoolon ki Holi",
+        "note": "Week-long divine festivities with herbal flower petals, scented Tesu water, and Radha-Krishna devotion.",
+        "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Women of Barsana lightly striking shields with bamboo canes in playful traditional mock battle."
+      },
+      {
+        "region": "West Bengal & Odisha",
+        "localName": "Dol Jatra / Dolyatra",
+        "note": "Devotional celebration of Sri Chaitanya Mahaprabhu with swings, classical kirtan, and yellow gulal.",
+        "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Placing Radha-Krishna murtis on decorated swings and singing classical Basant melodies."
+      },
+      {
+        "region": "Goa & Konkan",
+        "localName": "Shigmo",
+        "note": "Grand 14-day spring carnival featuring folk dances like Ghode Modni and dramatic mythological floats.",
+        "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Folk warrior dances honoring rural deities with red gulal showers."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Joyful celebration of Holi with herbal gulal powders in ancient temple courtyards",
+      "verified": true
+    },
+    "summary": "Ecstatic celebration of the spring harvest, divine play of Radha-Krishna, and the triumph of truth over tyranny (Prahlada).",
+    "lore": {
+      "text": {
+        "en": "Holi is celebrated over two days: Holika Dahan on the full-moon night, followed by Dhulandi (the play of colors) the next morning. The bonfire commemorates the devotion of young Prahlada, whose supreme faith in Narayana protected him while his demonic aunt Holika was consumed by the fire. The following morning washes away all social divisions: young and old, rich and poor embrace amidst showers of aromatic herbal gulal, dholak beats, and refreshing thandai.",
+        "hi": "होली रंगों, उल्लास और वसंत ऋतु का महापर्व है। यह प्रह्लाद की भक्ति की विजय और राधा-कृष्ण के दिव्य प्रेम का उत्सव है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "custom",
+        "label": { "en": "Splash Herbal Gulal", "native": "गुलाल वर्षा" },
+        "icon": "Sparkles",
+        "description": "Throw authentic organic herbal powders made from Palash flowers, sandalwood, and turmeric.",
+        "actionComponent": "splash-colors",
+        "data": {
+          "colors": [
+            { "name": "Palash Kesari", "hex": "#FF5722", "source": "Flame of the forest blossom" },
+            { "name": "Gulal Magenta", "hex": "#E91E63", "source": "Beetroot and red sandalwood" },
+            { "name": "Haldi Peela", "hex": "#FFC107", "source": "Pure wild turmeric powder" },
+            { "name": "Neem Hara", "hex": "#4CAF50", "source": "Dried neem and henna leaves" }
+          ]
+        }
+      },
+      {
+        "type": "food",
+        "label": { "en": "Prepare Mawa Gujiya", "native": "मावा गुजिया बनाएं" },
+        "icon": "Utensils",
+        "description": "Crisp golden crescent pastry stuffed with slow-roasted mawa, green cardamoms, and dry fruits.",
+        "actionComponent": "prepare-dish",
+        "data": {
+          "dishName": "Crispy Mawa Gujiya",
+          "origin": "Braj Traditional Festive Sweet",
+          "ingredients": [
+            "All Purpose Wheat Flour (Maida) – 250g",
+            "Mawa / Khoya (Evaporated Milk Solids) – 200g",
+            "Pure Desi Ghee for dough & frying – 100g",
+            "Crushed Pistachios, Almonds, and Chirongi – 50g",
+            "Green Cardamom Powder & Grated Coconut – 2 tbsp",
+            "Powdered Bura / Cane Sugar – 150g"
+          ],
+          "instructions": [
+            "Rub warm ghee into flour until it resembles breadcrumbs; knead into a semi-firm dough.",
+            "Slowly roast khoya in a heavy iron pan until pale pink and fragrant; let it cool.",
+            "Mix roasted khoya with nuts, coconut, cardamom, and sugar for the fragrant filling.",
+            "Roll thin discs, fill center, pleat into a traditional braided crescent, and deep fry on low heat to golden perfection!"
+          ],
+          "culturalNote": "Every household in Northern India offers freshly made Gujiya to guests on Holi afternoon."
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Kafi", "Raga Basant"],
+      "danceForms": ["Kathak", "Ghoomar"],
+      "crafts": ["Herbal Gulal Making", "Phoolon ki Holi Floral Craft"],
+      "monuments": ["Hawa Mahal", "Khajuraho Temples"]
+    }
+  },
+  {
+    "id": "diwali",
+    "name": {
+      "en": "Diwali — Festival of Lights (Deepavali)",
+      "native": "दीपावली • தீபாவளி • দীপাৱলী"
+    },
+    "date": "2026-11-08",
+    "dateNote": "Amavasya (New Moon) of Kartika month",
+    "tradition": "hindu",
+    "regions": ["All India"],
+    "regionalNames": [
+      {
+        "region": "Northern India & Ayodhya",
+        "localName": "Deepavali",
+        "note": "Millions of earthen diyas welcome Bhagwan Sri Rama, Sita, and Lakshmana back to Ayodhya.",
+        "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Grand Deepotsav illumination along the Saryu riverbanks and Lakshmi-Ganesha puja."
+      },
+      {
+        "region": "Tamil Nadu & South India",
+        "localName": "Deepavali",
+        "note": "Pre-dawn oil bath before sunrise celebrating Sri Krishna and Satyabhama's vanquishing of Narakasura.",
+        "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Early dawn Ganga Snanam ritual, wearing fresh silk clothes, and savoring Deepavali Marundu herbal lehyam."
+      },
+      {
+        "region": "Bengal & Eastern India",
+        "localName": "Kali Puja / Shyama Puja",
+        "note": "Midnight worship of Goddess Kali with red hibiscus flowers, earthen lamps, and sweets.",
+        "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Lighting 14 lamps (Choddo Saak) the evening before and offering Bhog to the fierce Mother."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Hundreds of warm clay diyas flickering on a grand festive temple verandah during Diwali",
+      "verified": true
+    },
+    "summary": "Supreme festival of inner illumination, marking the victory of dharma over adharma, celebrated with oil lamps, rangolis, and Lakshmi puja.",
+    "lore": {
+      "text": {
+        "en": "On the darkest night of the year (Kartika Amavasya), Bharat radiates with millions of clay oil lamps. Deepavali honors the return of Bhagwan Rama to Ayodhya after 14 years of exile and the vanquishing of Ravana. The citizens of Ayodhya lit rows of clay lamps to illuminate the path for truth and righteousness. Simultaneously, families invite Mahalakshmi, the embodiment of auspiciousness, grace, and abundance, into pristine homes blessed with rice-flour rangolis.",
+        "hi": "दीपावली अंधकार पर प्रकाश, अज्ञान पर ज्ञान और असत्य पर सत्य की शाश्वत विजय का दीपोत्सव है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "ritual",
+        "label": { "en": "Light Sacred Clay Diya", "native": "दीपक प्रज्वलन" },
+        "icon": "Flame",
+        "description": "Kindle the pure cotton wick with mustard or sesame oil, illuminating the darkness with sacred glow.",
+        "actionComponent": "light-diya",
+        "data": {
+          "mantra": "असतो मा सद्गमय। तमसो मा ज्योतिर्गमय। मृत्योर्मा अमृतं गमय॥",
+          "mantraMeaning": "Lead me from untruth to truth, from darkness to light, from mortality to immortality."
+        }
+      },
+      {
+        "type": "craft",
+        "label": { "en": "Craft Sacred Kolam/Rangoli", "native": "रंगोली बनाएं" },
+        "icon": "Sparkles",
+        "description": "Trace sacred geometric lotus motifs with rice flour and natural mineral powders.",
+        "actionComponent": "craft-a-rangoli",
+        "data": {
+          "pattern": "Auspicious Lotus & Peacock Sacred Geometry",
+          "colors": ["#FFF", "#E91E63", "#FF9800", "#4CAF50", "#FFEB3B"]
+        }
+      },
+      {
+        "type": "food",
+        "label": { "en": "Prepare Shahi Kaju Katli", "native": "काजू कतली बनाएं" },
+        "icon": "Utensils",
+        "description": "Velvety diamond-cut cashew fudge infused with green cardamom and pure silver leaf.",
+        "actionComponent": "prepare-dish",
+        "data": {
+          "dishName": "Silver-Foil Kaju Katli",
+          "origin": "Royal Mughal & Rajasthani Sweet Tradition",
+          "ingredients": [
+            "Whole Cashew Nuts (Kaju) – 250g",
+            "Refined Organic Cane Sugar – 125g",
+            "Water – 70ml",
+            "Green Cardamom Powder – 1/2 tsp",
+            "Pure Ghee – 1 tsp",
+            "Edible Silver Leaf (Vark) – optional"
+          ],
+          "instructions": [
+            "Grind raw cashews into a fine silky powder in quick pulses without releasing cashew oil.",
+            "Dissolve sugar in water over medium heat to create a single-string syrup consistency.",
+            "Stir in the cashew powder steadily on low flame until the mixture thickens into a glossy dough.",
+            "Knead smoothly on parchment paper with cardamom, roll into thin sheet, and cut into iconic diamonds!"
+          ],
+          "culturalNote": "Exchanged among families and friends across India as a token of enduring respect."
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Malkauns", "Raga Bhairavi"],
+      "danceForms": ["Bharatanatyam", "Kathak"],
+      "crafts": ["Terracotta Diya Craft", "Kanchipuram Silk Sarees"],
+      "monuments": ["Meenakshi Amman Temple", "Brihadisvara Temple (Thanjavur)"]
+    }
+  },
+  {
+    "id": "republic-day",
+    "name": {
+      "en": "Republic Day of India",
+      "native": "गणतंत्र दिवस • குடியரசு தினம்"
+    },
+    "date": "2026-01-26",
+    "dateNote": "January 26 (Historical Fixed National Milestone)",
+    "tradition": "civic-national",
+    "regions": ["All India"],
+    "regionalNames": [
+      {
+        "region": "Kartavya Path, New Delhi",
+        "localName": "National Republic Day Parade",
+        "note": "Grand military procession, state cultural tableaux, bravery awards, and fly-past by Indian Air Force.",
+        "image": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Hoisting of the National Tricolor by the President followed by the 21-gun salute and Beating Retreat."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Kartavya Path New Delhi during the Republic Day ceremonial parade with National Tricolor",
+      "verified": true
+    },
+    "summary": "Commemoration of the Constitution of India coming into force in 1950, securing sovereign democratic republichood for 1.4 billion citizens.",
+    "lore": {
+      "text": {
+        "en": "On January 26, 1950, Dr. Rajendra Prasad was sworn in as India's first President, and the Constitution of India—drafted under the chairmanship of Dr. B.R. Ambedkar—came into force. The date was chosen to honor the historic 1930 Purna Swaraj Declaration. The Constitution unified 565 princely states and British provinces under universal adult franchise, fundamental rights, and democratic pluralism, creating the world's largest constitutional democracy.",
+        "hi": "२६ जनवरी १९५० को भारत का संविधान लागू हुआ, जिसने हमारे देश को एक संप्रभु, समाजवादी, पंथनिरपेक्ष, लोकतांत्रिक गणराज्य का गौरव प्रदान किया।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "custom",
+        "label": { "en": "Unfurl the National Tricolor", "native": "तिरंगा फहराएं" },
+        "icon": "Award",
+        "description": "Unfurl the Tiranga accompanied by the 24-spoked Ashoka Chakra and reading the Preamble.",
+        "actionComponent": "flag-hoisting",
+        "data": {
+          "saffronMeaning": "Strength and Courage (Valour of Bharat)",
+          "whiteMeaning": "Peace and Truth with Dharma Chakra",
+          "greenMeaning": "Fertility, Growth, and Auspiciousness of the Soil"
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Desh", "Raga Kafi"],
+      "danceForms": ["Kathak", "Odissi (Classical)"],
+      "crafts": ["Khadi Handloom Weaving", "Bidriware Metalwork"],
+      "monuments": ["Hampi (Vijayanagara)"]
+    }
+  },
+  {
+    "id": "guru-nanak-jayanti",
+    "name": {
+      "en": "Guru Nanak Jayanti (Gurpurab)",
+      "native": "ਗੁਰਪੁਰਬ • गुरु पर्व • Prakash Utsav"
+    },
+    "date": "2026-11-24",
+    "dateNote": "Kartik Purnima (Full Moon of Kartik)",
+    "tradition": "sikh",
+    "regions": ["Punjab", "All India", "Delhi", "Haryana", "Jammu"],
+    "regionalNames": [
+      {
+        "region": "Sri Amritsar Sahib",
+        "localName": "Prakash Purab Sri Harmandir Sahib",
+        "note": "Akhand Path recital, illuminated Sarovar dip, and round-the-clock Langar serving hundreds of thousands.",
+        "image": "https://images.unsplash.com/photo-1588096344356-9b578c772cb3?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Jalau exhibition of historical treasures and deepmala illumination around the golden sanctum."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1588096344356-9b578c772cb3?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Golden Temple Sri Harmandir Sahib illuminated with floating lamps during Gurpurab",
+      "verified": true
+    },
+    "summary": "Birth celebration of Guru Nanak Dev Ji, founder of Sikhism, who taught oneness of humanity (Ek Onkar), honest living, and selfless community service.",
+    "lore": {
+      "text": {
+        "en": "Guru Nanak Jayanti celebrates the descent of Guru Nanak Dev Ji in 1469 at Nankana Sahib. Rejecting caste distinctions, superstition, and ritualism, Guru Nanak declared 'Na koi hindu, na koi musalman' (there is no stranger, all are divine children of One Creator). He instituted the Langar (free community kitchen) where emperor and pauper sit shoulder-to-shoulder on the floor. Gurpurab begins with Prabhat Pheris at dawn and ends in divine kirtan recitals of Asa Di Var.",
+        "hi": "गुरु नानक जयंती सिखों के प्रथम गुरु, मानवतावादी संत गुरु नानक देव जी के प्रकाश पर्व के रूप में श्रद्धा और सेवा भाव से मनाई जाती है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "food",
+        "label": { "en": "Cook Langar Karah Prasad", "native": "कड़ाह प्रसाद सेवा" },
+        "icon": "Utensils",
+        "description": "Sacred offering prepared in equal measures of whole wheat flour, pure desi ghee, sugarcane sugar, and water.",
+        "actionComponent": "prepare-dish",
+        "data": {
+          "dishName": "Deg Tegh Fateh Karah Prasad",
+          "origin": "Sacred Sikh Langar Tradition",
+          "ingredients": [
+            "Whole Wheat Coarse Flour (Atta) – 1 cup",
+            "Pure Desi Ghee – 1 cup",
+            "Natural Cane Sugar – 1 cup",
+            "Pure Water – 3 cups"
+          ],
+          "instructions": [
+            "Boil sugar and water together in a pan until sugar dissolves completely into a clear syrup.",
+            "Melt pure ghee in a heavy iron karahi, add coarse wheat flour, and stir continuously on low heat.",
+            "Roast with constant devotion until the flour turns a rich deep hazelnut-brown and ghee separates.",
+            "Carefully pour the hot sugar syrup while stirring briskly to eliminate any lumps until velvety smooth!",
+            "Serve hot with reverent hands to every seeker regardless of creed."
+          ],
+          "culturalNote": "Karah Prasad teaches equality: everyone receives the same divine prasad served with humility."
+        }
+      },
+      {
+        "type": "ritual",
+        "label": { "en": "Deepmala at Sarovar", "native": "सरोवर दीपमाला" },
+        "icon": "Flame",
+        "description": "Place a flickering clay diya along the parikrama steps of the sacred pool of nectar.",
+        "actionComponent": "light-diya",
+        "data": {
+          "mantra": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "mantraMeaning": "One Universal Creator God, The Name Is Truth, Creative Being Personified, Without Fear, Without Hatred."
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Asa", "Raga Ramkali"],
+      "danceForms": ["Bhangra"],
+      "crafts": ["Phulkari Embroidery", "Kirpan Swordsmithing"],
+      "monuments": ["Hampi (Vijayanagara)"]
+    }
+  },
+  {
+    "id": "buddha-purnima",
+    "name": {
+      "en": "Buddha Purnima (Vesak)",
+      "native": "बुद्ध पूर्णिमा • Vesak"
+    },
+    "date": "2026-05-01",
+    "dateNote": "Vaisakha Purnima (Full Moon of Vaisakha)",
+    "tradition": "buddhist",
+    "regions": ["Bihar (Bodh Gaya)", "Uttar Pradesh (Sarnath)", "Ladakh", "Sikkim", "Himachal Pradesh", "Maharashtra"],
+    "regionalNames": [
+      {
+        "region": "Bodh Gaya & Sarnath",
+        "localName": "Thrice Blessed Day",
+        "note": "Commemorating the Birth, Supreme Enlightenment (Bodhi), and Mahaparinirvana of Siddhartha Gautama.",
+        "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Monks in saffron and maroon robes chanting under the sacred Bodhi Tree where the Buddha attained Nirvana."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Monks meditating with lotus offerings under the sacred Bodhi Tree at Bodh Gaya",
+      "verified": true
+    },
+    "summary": "Thrice-blessed full moon celebrating the birth, enlightenment under the Bodhi tree, and Mahaparinirvana of Shakyamuni Buddha.",
+    "lore": {
+      "text": {
+        "en": "On the full moon night of Vaisakha, Prince Siddhartha Gautama attained supreme awakening under the Bodhi Tree at Bodh Gaya, becoming the Buddha ('The Awakened One'). Buddha Purnima uniquely honors three milestones of his life: his birth in Lumbini, his enlightenment at Bodh Gaya, and his passing into Mahaparinirvana at Kushinagar. Devotees wear white clothes, practice non-violence, bathe sacred Bodhi saplings with perfumed water, and distribute Kheer in memory of Sujata's offering.",
+        "hi": "वैशाख पूर्णिमा तथागत भगवान बुद्ध के जन्म, संबोधि और महापरिनिर्वाण का पावन त्रिविध दिवस है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "custom",
+        "label": { "en": "Offer Sacred Lotus", "native": "कमल पुष्प अर्पण" },
+        "icon": "Sparkles",
+        "description": "Offer an unsullied lotus bloom symbolizing mind rising pure above worldly mud.",
+        "actionComponent": "recite-lore"
+      },
+      {
+        "type": "food",
+        "label": { "en": "Prepare Sujata Sweet Kheer", "native": "सुजाता खीर" },
+        "icon": "Utensils",
+        "description": "Nourishing rice and whole milk pudding commemorating Sujata's life-giving gift to Gautama.",
+        "actionComponent": "prepare-dish",
+        "data": {
+          "dishName": "Sujata's Bodhi Kheer",
+          "origin": "Ancient Magadha (Bodh Gaya)",
+          "ingredients": [
+            "Govindobhog / Scented Rice – 100g",
+            "Pure Cow's Milk – 1 Litre",
+            "Mishri / Unrefined Palm Sugar – 80g",
+            "Crushed Cardamom & Golden Raisins – 1 tbsp",
+            "Edible Rose Petals – for garnish"
+          ],
+          "instructions": [
+            "Wash scented rice and soak in water for 20 minutes.",
+            "Bring milk to a slow rolling boil in an earthen vessel.",
+            "Simmer rice on low flame until tender and dissolving into the thickened milk.",
+            "Stir in unrefined sugar and cardamom; garnish with rose petals and offer with loving kindness (Metta)."
+          ],
+          "culturalNote": "Sujata offered this milk rice to Siddhartha when he was emaciated by asceticism, giving him strength to attain Enlightenment."
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Bhairav"],
+      "danceForms": ["Odissi (Classical)"],
+      "crafts": ["Thangka Painting", "Stone Inscription Carving"],
+      "monuments": ["Konark Sun Temple"]
+    }
+  },
+  {
+    "id": "christmas",
+    "name": {
+      "en": "Christmas & Feast of the Nativity",
+      "native": "क्रिसमस • ക്രിസ്മസ് • বড়দিন"
+    },
+    "date": "2026-12-25",
+    "dateNote": "December 25 (Fixed Solar Calendar)",
+    "tradition": "christian",
+    "regions": ["Goa", "Kerala", "Meghalaya", "Nagaland", "Mizoram", "Mumbai", "All India"],
+    "regionalNames": [
+      {
+        "region": "Goa & Konkan Coast",
+        "localName": "Natal",
+        "note": "Midnight mass in heritage Portuguese churches, glowing paper stars, and Kuswar platters with Bebinca.",
+        "image": "https://images.unsplash.com/photo-1543257580-7269da773bf5?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Decorating front porches with giant illuminated paper star lanterns and baking multi-layered Bebinca."
+      },
+      {
+        "region": "Kerala",
+        "localName": "Yulapara & Christmas",
+        "note": "Ancient Saint Thomas Christian traditions with Syrian liturgical hymns, appam with stew, and star processions.",
+        "image": "https://images.unsplash.com/photo-1543257580-7269da773bf5?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Carol singing from house to house with traditional Chenda percussion beats."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1543257580-7269da773bf5?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Illuminated Goan church and candlelit nativity creche during festive Christmas midnight mass",
+      "verified": true
+    },
+    "summary": "Joyous celebration of the birth of Jesus Christ, celebrated with midnight choral mass, illuminated star lanterns, and traditional fruit cakes.",
+    "lore": {
+      "text": {
+        "en": "In India, Christmas is celebrated with vibrant local adaptations spanning two thousand years, rooted in the arrival of Apostle Thomas in Kerala in 52 CE. From the historic whitewashed baroque basilicas of Old Goa to the mist-wrapped pine hills of Shillong and Kohima, communities celebrate with midnight choral services, handmade paper star lanterns hung outside every home, crib recreations of Bethlehem, and community banquets of rose cookies, dodol, and plum cake.",
+        "hi": "क्रिसमस प्रभु ईसा मसीह के जन्म का पवित्र पर्व है, जो शांति, करुणा, प्रार्थना और उल्लास के साथ मनाया जाता है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "food",
+        "label": { "en": "Bake Goan Plum Cake", "native": "पारंपरिक प्लम केक" },
+        "icon": "Utensils",
+        "description": "Spice-infused winter fruit cake steeped in candied peel, ginger, nutmeg, and caramelized syrup.",
+        "actionComponent": "prepare-dish",
+        "data": {
+          "dishName": "Traditional Goan Christmas Fruit Cake",
+          "origin": "Indo-Portuguese Heritage",
+          "ingredients": [
+            "Flour, Butter, and Brown Sugar – 200g each",
+            "Candied Orange Peel, Black Raisins, and Dried Plums – 250g",
+            "Cinnamon, Nutmeg, and Clove Powder – 1 tsp",
+            "Fresh Eggs – 4",
+            "Caramelized Sugar Syrup – 3 tbsp"
+          ],
+          "instructions": [
+            "Macerate chopped dried fruits and citrus peel weeks in advance for deep flavor infusion.",
+            "Cream butter and dark cane sugar until fluffy; fold in beaten eggs gradually.",
+            "Sift flour with aromatic ground spices and blend with the caramelized sugar syrup.",
+            "Fold in soaked fruits, pour into lined tins, and bake low and slow until toothsome and deep amber!"
+          ],
+          "culturalNote": "Shared with neighbors of all communities across Goa and coastal India during Christmas week."
+        }
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Bhairavi"],
+      "danceForms": ["Kathak"],
+      "crafts": ["Goan Lace-making", "Carved Wooden Altars"],
+      "monuments": ["Brihadisvara Temple (Thanjavur)"]
+    }
+  },
+  {
+    "id": "hornbill-festival",
+    "name": {
+      "en": "Hornbill Festival — Festival of Festivals",
+      "native": "हॉर्नबिल उत्सव • Hornbill Festival"
+    },
+    "date": "2026-12-01",
+    "dateNote": "December 1–10 (Annual Nagaland Statehood Celebration)",
+    "tradition": "tribal-regional",
+    "regions": ["Nagaland", "Northeast India"],
+    "regionalNames": [
+      {
+        "region": "Kisama Heritage Village, Kohima",
+        "localName": "Hornbill Festival of Festivals",
+        "note": "17 major Naga tribes congregate displaying ancient warrior regalia, indigenous architecture (Morungs), and log-drum beats.",
+        "image": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+        "uniqueCustom": "Synchronized log-drum beating ceremonies and indigenous indigenous archery competitions."
+      }
+    ],
+    "image": {
+      "url": "https://images.unsplash.com/photo-1544986581-efac024faf62?auto=format&fit=crop&w=1200&q=80",
+      "altText": "Naga warrior dancers in ceremonial feather headdresses and beaded regalia at Kisama Heritage Village",
+      "verified": false
+    },
+    "summary": "Spectacular 10-day cultural convergence showcasing the ancient folklore, log-drum songs, and textile legacies of 17 Naga tribes.",
+    "lore": {
+      "text": {
+        "en": "Named after the revered Great Indian Hornbill bird whose colorful feathers adorn traditional tribal headdresses, the Hornbill Festival is held annually at the Kisama Heritage Village near Kohima. All 17 recognized tribes of Nagaland—including the Angami, Ao, Konyak, Lotha, and Sumi—gather to revive and celebrate their ancestral songs, warrior folk dances, indigenous games, and culinary crafts under traditional thatched Morung communal halls.",
+        "hi": "हॉर्नबिल उत्सव नागालैंड की १७ प्रमुख जनजातियों की जीवंत संस्कृति, लोक संगीत, पारंपरिक नृत्य और समृद्ध विरासत का भव्य समागम है।"
+      },
+      "audioUrl": ""
+    },
+    "interactions": [
+      {
+        "type": "music",
+        "label": { "en": "Hear Naga Log-Drum Beats", "native": "नागा लॉग-ड्रम ध्वनि" },
+        "icon": "Music",
+        "description": "Resonant rhythmic drumming carved from giant hollowed tree trunks used for centuries as telegraphs of battle and peace.",
+        "actionComponent": "recite-lore"
+      }
+    ],
+    "linkedEntities": {
+      "ragas": ["Raga Bhupali"],
+      "danceForms": ["Odissi (Classical)"],
+      "crafts": ["Naga Shawl Weaving", "Cane & Bamboo Crafts"],
+      "monuments": ["Hampi (Vijayanagara)"]
+    }
+  }
+]

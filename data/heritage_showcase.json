@@ -1,0 +1,325 @@
+[
+  {
+    "id": "konark-sun-temple",
+    "name": "Konark Sun Temple",
+    "native_name": "\u0b15\u0b4b\u0b23\u0b3e\u0b30\u0b4d\u0b15 \u0b38\u0b42\u0b30\u0b4d\u0b2f\u0b4d\u0b5f \u0b2e\u0b28\u0b4d\u0b26\u0b3f\u0b30",
+    "state": "Odisha",
+    "district": "Puri",
+    "latitude": 19.8876,
+    "longitude": 86.0945,
+    "built_century": "13th Century (1250 CE)",
+    "builder": "King Narasimhadeva I",
+    "dynasty": "Eastern Ganga Dynasty",
+    "architectural_style": "Kalinga Architecture",
+    "unesco_world_heritage": true,
+    "tagline": "The Colossal Stone Chariot of the Sun God",
+    "summary": "Designed as a gargantuan 24-wheeled stone chariot drawn by seven horses carrying Surya across the heavens, Konark is the pinnacle of Odishan stone craftsmanship, astronomy, and architectural mathematics.",
+    "model_3d": {
+      "type": "threejs_interactive",
+      "fallback_glb": "/models/konark.glb",
+      "splat_url": "/models/konark.splat",
+      "camera_position": [
+        0,
+        2,
+        5
+      ],
+      "camera_look_at": [
+        0,
+        0,
+        0
+      ]
+    },
+    "hotspots": [
+      {
+        "id": "natamandira",
+        "title": "Natamandira (Hall of Dance)",
+        "position": [
+          1.4,
+          0.4,
+          0.8
+        ],
+        "category": "Sculpture & Dance",
+        "short_desc": "128 classical dance poses (karanas) from Bharata Muni's Natya Shastra carved in high relief.",
+        "extended_story": "The Natamandira served as a dedicated celestial stage where Maharis (temple dancers) performed Odissi in devotion to the rising sun. Every pillar depicts dancers holding vinas, mridangams, cymbals, and flutes.",
+        "connected_module": "nritya",
+        "connected_id": "odissi"
+      },
+      {
+        "id": "chariot-wheel",
+        "title": "Astronomical Chariot Wheel (Sundial)",
+        "position": [
+          -1.8,
+          -0.2,
+          0.5
+        ],
+        "category": "Science & Astronomy",
+        "short_desc": "9.9-foot diameter stone wheel functioning as a high-precision solar clock accurate to 3 minutes.",
+        "extended_story": "Each wheel has 8 major spokes representing the 8 prahars (3-hour periods) of the day and 8 minor spokes. Time is calculated from the shadow cast by the hub onto the intricate bead carvings around the rim.",
+        "connected_module": "history",
+        "connected_id": "science-astronomy"
+      },
+      {
+        "id": "vimana-sanctum",
+        "title": "Vimana & Gajasimha",
+        "position": [
+          0.0,
+          1.2,
+          -1.0
+        ],
+        "category": "Architecture",
+        "short_desc": "Once standing 229 feet tall, the Deula sanctum was engineered to catch the very first rays of dawn.",
+        "extended_story": "The sanctum was capped by an iron lodestone that balanced the structure along magnetic meridians according to ancient Kalingan Shilpa Shastras.",
+        "connected_module": "heritage",
+        "connected_id": "kalinga-style"
+      },
+      {
+        "id": "chlorite-sculptures",
+        "title": "Green Chlorite Deities",
+        "position": [
+          0.9,
+          -0.1,
+          -0.6
+        ],
+        "category": "Fine Art",
+        "short_desc": "Pristine dark chlorite stone sculptures of Surya riding his chariot at morning, noon, and evening.",
+        "extended_story": "Unlike the weathered khondalite sandstone of the main temple walls, the central niche images were carved from dense metamorphic green chlorite imported by sea, retaining their razor-sharp polish for 750 years.",
+        "connected_module": "bazaar",
+        "connected_id": "odisha-stonecraft"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Odissi",
+        "id": "odissi",
+        "description": "The sculptural curves of Konark's dancers define the quintessential Tribhanga posture of Odissi."
+      },
+      "music": {
+        "raga": "Raag Kalyan",
+        "id": "kalyan",
+        "description": "Evocative of sunset and dusk devotion in Kalinga temple rituals."
+      },
+      "craft": {
+        "name": "Pattachitra & Stone Carving",
+        "id": "pattachitra",
+        "artisan": "Rabi Narayan Sahoo",
+        "village": "Raghurajpur Heritage Village, Puri"
+      },
+      "festival": {
+        "name": "Konark Dance Festival & Chandrabhaga Mela",
+        "date": "December 1-5"
+      }
+    },
+    "audio_narration": {
+      "title": "The Legend of the Sun Chariot",
+      "duration": "2:45",
+      "narrator": "Vedic Scholar",
+      "ambient": "temple_bells_ocean_waves"
+    }
+  },
+  {
+    "id": "hampi-virupaksha",
+    "name": "Hampi & Vijayanagara",
+    "native_name": "\u0cb9\u0c82\u0caa\u0cbf \u0cb5\u0cbf\u0cb0\u0cc2\u0caa\u0cbe\u0c95\u0ccd\u0cb7",
+    "state": "Karnataka",
+    "district": "Ballari",
+    "latitude": 15.335,
+    "longitude": 76.46,
+    "built_century": "7th\u201316th Century",
+    "builder": "Harihara, Bukka & Krishnadevaraya",
+    "dynasty": "Sangama & Tuluva Dynasties",
+    "architectural_style": "Dravidian Vijayanagara Architecture",
+    "unesco_world_heritage": true,
+    "tagline": "The City of Victory Carved in Granite",
+    "summary": "Spanning 4,100 hectares along the rugged granite boulders of the Tungabhadra river, Hampi was the capital of the Vijayanagara Empire\u2014at its height, the second largest medieval city in the world after Beijing.",
+    "model_3d": {
+      "type": "threejs_interactive",
+      "fallback_glb": "/models/hampi.glb",
+      "camera_position": [
+        0,
+        2,
+        5
+      ],
+      "camera_look_at": [
+        0,
+        0,
+        0
+      ]
+    },
+    "hotspots": [
+      {
+        "id": "musical-pillars",
+        "title": "Musical Pillars of Vittala",
+        "position": [
+          1.1,
+          0.3,
+          0.4
+        ],
+        "category": "Acoustic Architecture",
+        "short_desc": "56 monolithic granite pillars that resonate at exact musical notes (Sa, Re, Ga, Ma) when gently tapped.",
+        "extended_story": "Carved from single granite masses, the hollowed resonance chambers were tuned to accompany devotional dance without metal instruments.",
+        "connected_module": "sangeet",
+        "connected_id": "carnatic-acoustics"
+      },
+      {
+        "id": "stone-chariot",
+        "title": "Garuda Stone Chariot",
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "category": "Sculpture",
+        "short_desc": "One of only three famous stone chariots in India, housing Garuda the vahana of Vishnu.",
+        "extended_story": "The stone wheels were once freely rotating on stone axles, carved with lotus rosettes.",
+        "connected_module": "heritage",
+        "connected_id": "vijayanagara-monuments"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Bharatanatyam",
+        "id": "bharatanatyam"
+      },
+      "music": {
+        "raga": "Raag Mayamalavagowla",
+        "id": "mayamalavagowla"
+      },
+      "craft": {
+        "name": "Kinhal Wooden Toys & Sandur Lambani Embroidery",
+        "id": "kinhal"
+      },
+      "festival": {
+        "name": "Hampi Utsav",
+        "date": "November"
+      }
+    }
+  },
+  {
+    "id": "brihadisvara-thanjavur",
+    "name": "Brihadisvara Temple (Thanjavur)",
+    "native_name": "\u0ba4\u0b9e\u0bcd\u0b9a\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bb5\u0bc1\u0b9f\u0bc8\u0baf\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bcd",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "latitude": 10.7828,
+    "longitude": 79.1318,
+    "built_century": "1010 CE",
+    "builder": "Rajaraja Chola I",
+    "dynasty": "Chola Dynasty",
+    "architectural_style": "Pure Chola Dravidian Architecture",
+    "unesco_world_heritage": true,
+    "tagline": "The Great Living Chola Temple",
+    "summary": "Constructed entirely of granite over 1,000 years ago without binding mortar, featuring a 216-foot vimana topped with an 80-tonne monolithic cupola.",
+    "model_3d": {
+      "type": "threejs_interactive",
+      "fallback_glb": "/models/thanjavur.glb",
+      "camera_position": [
+        0,
+        2,
+        5
+      ],
+      "camera_look_at": [
+        0,
+        0,
+        0
+      ]
+    },
+    "hotspots": [
+      {
+        "id": "kumbam-capstone",
+        "title": "80-Tonne Monolithic Kumbam",
+        "position": [
+          0.0,
+          2.5,
+          0.0
+        ],
+        "category": "Engineering Marvel",
+        "short_desc": "Single octagonal granite dome hauled up a 6-kilometer earthen ramp.",
+        "extended_story": "The engineering required elephants and inclined planes spanning from the village of Sarapallam to position the 80,000 kg capstone atop the hollow corbelled tower.",
+        "connected_module": "history",
+        "connected_id": "chola-engineering"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Bharatanatyam",
+        "id": "bharatanatyam"
+      },
+      "music": {
+        "raga": "Raag Todi",
+        "id": "todi"
+      },
+      "craft": {
+        "name": "Thanjavur Gold Leaf Painting & Bronze Casting",
+        "id": "thanjavur-art"
+      },
+      "festival": {
+        "name": "Natyanjali Dance Festival",
+        "date": "Maha Shivaratri"
+      }
+    }
+  },
+  {
+    "id": "ajanta-ellora-caves",
+    "name": "Ajanta & Ellora Caves",
+    "native_name": "\u0905\u091c\u093f\u0902\u0920\u093e-\u0935\u0947\u0930\u0942\u0933 \u0932\u0947\u0923\u0940",
+    "state": "Maharashtra",
+    "district": "Chhatrapati Sambhaji Nagar",
+    "latitude": 20.5519,
+    "longitude": 75.7033,
+    "built_century": "2nd BCE \u2013 10th CE",
+    "builder": "Satavahanas, Vakatakas & Rashtrakutas",
+    "dynasty": "Vakataka / Rashtrakuta Dynasties",
+    "architectural_style": "Rock-cut Monolithic Architecture",
+    "unesco_world_heritage": true,
+    "tagline": "Masterpieces of Buddhist, Hindu & Jain Cave Art",
+    "summary": "Monolithic excavations carved top-down into basalt volcanic cliffs. Ellora's Kailasa Temple is the world's largest single monolithic rock excavation, chiselled downwards from 200,000 tonnes of rock.",
+    "model_3d": {
+      "type": "threejs_interactive",
+      "fallback_glb": "/models/kailasa.glb",
+      "camera_position": [
+        0,
+        2,
+        5
+      ],
+      "camera_look_at": [
+        0,
+        0,
+        0
+      ]
+    },
+    "hotspots": [
+      {
+        "id": "kailasa-top-down",
+        "title": "Kailasa Cave 16 Top-Down Excavation",
+        "position": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "category": "Monolithic Engineering",
+        "short_desc": "Carved from top to bottom; zero room for measurement error.",
+        "extended_story": "Commissioned by Rashtrakuta King Krishna I in the 8th century, artisans began at the cliff summit and worked down, removing rock without scaffolding.",
+        "connected_module": "heritage",
+        "connected_id": "monoliths"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Kathak",
+        "id": "kathak"
+      },
+      "music": {
+        "raga": "Raag Bhairav",
+        "id": "bhairav"
+      },
+      "craft": {
+        "name": "Paithani Silk Weaving & Bidriware",
+        "id": "paithani"
+      },
+      "festival": {
+        "name": "Ellora Ajanta International Festival",
+        "date": "January"
+      }
+    }
+  }
+]

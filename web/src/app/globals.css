@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@400;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Rozha+One&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #07080B;
+  --bg-secondary: #0E111A;
+  --bg-card: rgba(14, 17, 26, 0.75);
+  --text-sandstone: #E8DFD1;
+  --text-muted: #9E978E;
+  --gold-accent: #D4AF37;
+  --gold-light: #F5E0A0;
+  --terracotta: #C85A32;
+  --border-gold: rgba(212, 175, 55, 0.25);
+  --border-gold-bright: rgba(212, 175, 55, 0.6);
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-sandstone);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  overflow-x: hidden;
+  selection-background-color: var(--gold-accent);
+  selection-color: #07080B;
+}
+
+/* Typography Utility Classes */
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-cinzel-dec {
+  font-family: 'Cinzel Decorative', serif;
+}
+
+.font-rozha {
+  font-family: 'Rozha One', serif;
+}
+
+/* Gold Text Gradients */
+.text-gold-gradient {
+  background: linear-gradient(135deg, #FDF0CD 0%, #D4AF37 50%, #AA820A 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-terracotta-gradient {
+  background: linear-gradient(135deg, #FF9E79 0%, #C85A32 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Luxury Glassmorphic Panels */
+.glass-panel {
+  background: rgba(14, 18, 28, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-panel-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-panel-hover:hover {
+  background: rgba(18, 24, 38, 0.85);
+  border-color: rgba(212, 175, 55, 0.45);
+  box-shadow: 0 12px 40px -10px rgba(212, 175, 55, 0.2);
+  transform: translateY(-2px);
+}
+
+.glass-panel-gold {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.12) 0%, rgba(14, 18, 28, 0.8) 100%);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+}
+
+/* Subtle Golden Jaali Background Pattern */
+.bg-jaali {
+  background-image: radial-gradient(rgba(212, 175, 55, 0.08) 1px, transparent 1px), radial-gradient(rgba(212, 175, 55, 0.04) 1px, #07080B 1px);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+}
+
+/* Glowing Pulsing Beacon */
+@keyframes goldPulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(212, 175, 55, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 12px rgba(212, 175, 55, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(212, 175, 55, 0);
+  }
+}
+
+.gold-beacon {
+  animation: goldPulse 2s infinite cubic-bezier(0.66, 0, 0, 1);
+}
+
+/* Custom Soothing Scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #060709;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(212, 175, 55, 0.45) 0%, rgba(200, 90, 50, 0.25) 100%);
+  border-radius: 9999px;
+  border: 1px solid rgba(212, 175, 55, 0.15);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(212, 175, 55, 0.8) 0%, rgba(200, 90, 50, 0.5) 100%);
+}
+
+/* Explicit Custom Scrollbar Class */
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(212, 175, 55, 0.4) #0E1015;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #0E1015;
+  border-radius: 9999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(212, 175, 55, 0.6) 0%, rgba(200, 90, 50, 0.35) 100%);
+  border-radius: 9999px;
+  border: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(212, 175, 55, 0.9) 0%, rgba(200, 90, 50, 0.6) 100%);
+}
+
+
+/* ── Lenis Smooth Scrolling Optimization ── */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+

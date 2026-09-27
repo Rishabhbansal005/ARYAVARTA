@@ -1,0 +1,1330 @@
+[
+  {
+    "id": 1,
+    "name": "Kanakangi",
+    "melakarta_number": 1,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M1 P D1 N1 S'",
+    "avarohana": "S' N1 D1 P M1 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S'"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ratnangi",
+    "melakarta_number": 2,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M1 P D1 N2 S'",
+    "avarohana": "S' N2 D1 P M1 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ganamurti",
+    "melakarta_number": 3,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M1 P D1 N3 S'",
+    "avarohana": "S' N3 D1 P M1 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vanaspati",
+    "melakarta_number": 4,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M1 P D2 N2 S'",
+    "avarohana": "S' N2 D2 P M1 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Manavati",
+    "melakarta_number": 5,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M1 P D2 N3 S'",
+    "avarohana": "S' N3 D2 P M1 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tanarupi",
+    "melakarta_number": 6,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M1 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M1 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Senavati",
+    "melakarta_number": 7,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M1 P D1 N1 S'",
+    "avarohana": "S' N1 D1 P M1 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S'"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hanumatodi",
+    "melakarta_number": 8,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M1 P D1 N2 S'",
+    "avarohana": "S' N2 D1 P M1 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dhenuka",
+    "melakarta_number": 9,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M1 P D1 N3 S'",
+    "avarohana": "S' N3 D1 P M1 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Natakapriya",
+    "melakarta_number": 10,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M1 P D2 N2 S'",
+    "avarohana": "S' N2 D2 P M1 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Kokilapriya",
+    "melakarta_number": 11,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M1 P D2 N3 S'",
+    "avarohana": "S' N3 D2 P M1 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Rupavati",
+    "melakarta_number": 12,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M1 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M1 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gayakapriya",
+    "melakarta_number": 13,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M1 P D1 N1 S'",
+    "avarohana": "S' N1 D1 P M1 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S'"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Vakulabharanam",
+    "melakarta_number": 14,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M1 P D1 N2 S'",
+    "avarohana": "S' N2 D1 P M1 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mayamalavagowla",
+    "melakarta_number": 15,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M1 P D1 N3 S'",
+    "avarohana": "S' N3 D1 P M1 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Chakravakam",
+    "melakarta_number": 16,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M1 P D2 N2 S'",
+    "avarohana": "S' N2 D2 P M1 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Suryakantam",
+    "melakarta_number": 17,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M1 P D2 N3 S'",
+    "avarohana": "S' N3 D2 P M1 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "H\u0101tak\u0101mbari",
+    "melakarta_number": 18,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M1 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M1 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jhankaradhvani",
+    "melakarta_number": 19,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M1 P D1 N1 S'",
+    "avarohana": "S' N1 D1 P M1 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S'"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Natabhairavi",
+    "melakarta_number": 20,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M1 P D1 N2 S'",
+    "avarohana": "S' N2 D1 P M1 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Keeravani",
+    "melakarta_number": 21,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M1 P D1 N3 S'",
+    "avarohana": "S' N3 D1 P M1 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Kharaharapriya",
+    "melakarta_number": 22,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M1 P D2 N2 S'",
+    "avarohana": "S' N2 D2 P M1 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Gourimanohari",
+    "melakarta_number": 23,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M1 P D2 N3 S'",
+    "avarohana": "S' N3 D2 P M1 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Varunapriya",
+    "melakarta_number": 24,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M1 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M1 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mararajnani",
+    "melakarta_number": 25,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M1 P D1 N1 S'",
+    "avarohana": "S' N1 D1 P M1 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S'"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Charukesi",
+    "melakarta_number": 26,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M1 P D1 N2 S'",
+    "avarohana": "S' N2 D1 P M1 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sarasangi",
+    "melakarta_number": 27,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M1 P D1 N3 S'",
+    "avarohana": "S' N3 D1 P M1 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Harikambhoji",
+    "melakarta_number": 28,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M1 P D2 N2 S'",
+    "avarohana": "S' N2 D2 P M1 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "\u015aankar\u0101bhara\u1e47a\u1e43",
+    "melakarta_number": 29,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M1 P D2 N3 S'",
+    "avarohana": "S' N3 D2 P M1 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Naganandini",
+    "melakarta_number": 30,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M1 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M1 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Yagapriya",
+    "melakarta_number": 31,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M1 P D1 N1 S'",
+    "avarohana": "S' N1 D1 P M1 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N1",
+      "S'"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ragavardhini",
+    "melakarta_number": 32,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M1 P D1 N2 S'",
+    "avarohana": "S' N2 D1 P M1 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Gangeyabhushani",
+    "melakarta_number": 33,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M1 P D1 N3 S'",
+    "avarohana": "S' N3 D1 P M1 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D1",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Vagadheeswari",
+    "melakarta_number": 34,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M1 P D2 N2 S'",
+    "avarohana": "S' N2 D2 P M1 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N2",
+      "S'"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Shulini",
+    "melakarta_number": 35,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M1 P D2 N3 S'",
+    "avarohana": "S' N3 D2 P M1 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D2",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Chalanta",
+    "melakarta_number": 36,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M1 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M1 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M1",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Salagam",
+    "melakarta_number": 37,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M2 P D1 N1 S S'",
+    "avarohana": "S' S N1 D1 P M2 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Jalarnavam",
+    "melakarta_number": 38,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M2 P D1 N2 S S'",
+    "avarohana": "S' S N2 D1 P M2 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jhalavarali",
+    "melakarta_number": 39,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M2 P D1 N3 S S'",
+    "avarohana": "S' S N3 D1 P M2 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Navaneetam",
+    "melakarta_number": 40,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M2 P D2 N2 S S'",
+    "avarohana": "S' S N2 D2 P M2 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Pavani",
+    "melakarta_number": 41,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M2 P D2 N3 S S'",
+    "avarohana": "S' S N3 D2 P M2 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Raghupriya",
+    "melakarta_number": 42,
+    "is_melakarta": true,
+    "arohana": "S R1 G1 M2 P D3 N3 S S'",
+    "avarohana": "S' S N3 D3 P M2 G1 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G1",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Gavambhodi",
+    "melakarta_number": 43,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M2 P D1 N1 S S'",
+    "avarohana": "S' S N1 D1 P M2 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Bhavapriya",
+    "melakarta_number": 44,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M2 P D1 N2 S S'",
+    "avarohana": "S' S N2 D1 P M2 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Shubhapantuvarali",
+    "melakarta_number": 45,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M2 P D1 N3 S S'",
+    "avarohana": "S' S N3 D1 P M2 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Shadvidamargini",
+    "melakarta_number": 46,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M2 P D2 N2 S S'",
+    "avarohana": "S' S N2 D2 P M2 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Suvarnangi",
+    "melakarta_number": 47,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M2 P D2 N3 S S'",
+    "avarohana": "S' S N3 D2 P M2 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Divyamani",
+    "melakarta_number": 48,
+    "is_melakarta": true,
+    "arohana": "S R1 G2 M2 P D3 N3 S S'",
+    "avarohana": "S' S N3 D3 P M2 G2 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G2",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Dhavalambari",
+    "melakarta_number": 49,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M2 P D1 N1 S'",
+    "avarohana": "S' N1 D1 P M2 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S'"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Namanarayani",
+    "melakarta_number": 50,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M2 P D1 N2 S S'",
+    "avarohana": "S' S N2 D1 P M2 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kamavardhani",
+    "melakarta_number": 51,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M2 P D1 N3 S S'",
+    "avarohana": "S' S N3 D1 P M2 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Ramapriya",
+    "melakarta_number": 52,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M2 P D2 N2 S S'",
+    "avarohana": "S' S N2 D2 P M2 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Gamanashrama",
+    "melakarta_number": 53,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M2 P D2 N3 S S'",
+    "avarohana": "S' S N3 D2 P M2 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Vishwambari",
+    "melakarta_number": 54,
+    "is_melakarta": true,
+    "arohana": "S R1 G3 M2 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M2 G3 R1 S",
+    "swaras": [
+      "S",
+      "R1",
+      "G3",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Shamalangi",
+    "melakarta_number": 55,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M2 P D1 N1 S S'",
+    "avarohana": "S' S N1 D1 P M2 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Shanmukhapriya",
+    "melakarta_number": 56,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M2 P D1 N2 S S'",
+    "avarohana": "S' S N2 D1 P M2 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Simhendramadhyamam",
+    "melakarta_number": 57,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M2 P D1 N3 S S'",
+    "avarohana": "S' S N3 D1 P M2 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Hemavati",
+    "melakarta_number": 58,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M2 P D2 N2 S S'",
+    "avarohana": "S' S N2 D2 P M2 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Dharmavati",
+    "melakarta_number": 59,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M2 P D2 N3 S S'",
+    "avarohana": "S' S N3 D2 P M2 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Neetimati",
+    "melakarta_number": 60,
+    "is_melakarta": true,
+    "arohana": "S R2 G2 M2 P D3 N3 S S'",
+    "avarohana": "S' S N3 D3 P M2 G2 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G2",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Kantamani",
+    "melakarta_number": 61,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M2 P D1 N1 S S'",
+    "avarohana": "S' S N1 D1 P M2 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Rishabhapriya",
+    "melakarta_number": 62,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M2 P D1 N2 S S'",
+    "avarohana": "S' S N2 D1 P M2 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Latangi",
+    "melakarta_number": 63,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M2 P D1 N3 S S'",
+    "avarohana": "S' S N3 D1 P M2 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Vachaspati",
+    "melakarta_number": 64,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M2 P D2 N2 S S'",
+    "avarohana": "S' S N2 D2 P M2 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Kalyani",
+    "melakarta_number": 65,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M2 P D2 N3 S'",
+    "avarohana": "S' N3 D2 P M2 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S'"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Chitrambari",
+    "melakarta_number": 66,
+    "is_melakarta": true,
+    "arohana": "S R2 G3 M2 P D3 N3 S S'",
+    "avarohana": "S' S N3 D3 P M2 G3 R2 S",
+    "swaras": [
+      "S",
+      "R2",
+      "G3",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Sucharitra",
+    "melakarta_number": 67,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M2 P D1 N1 S S'",
+    "avarohana": "S' S N1 D1 P M2 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N1",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Jyoti-sarupini",
+    "melakarta_number": 68,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M2 P D1 N2 S S'",
+    "avarohana": "S' S N2 D1 P M2 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dhatuvardhani",
+    "melakarta_number": 69,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M2 P D1 N3 S S'",
+    "avarohana": "S' S N3 D1 P M2 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D1",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Nasikabhushani",
+    "melakarta_number": 70,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M2 P D2 N2 S S'",
+    "avarohana": "S' S N2 D2 P M2 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N2",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Kosalam",
+    "melakarta_number": 71,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M2 P D2 N3 S S'",
+    "avarohana": "S' S N3 D2 P M2 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D2",
+      "N3",
+      "S",
+      "S'"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Rasikapriya",
+    "melakarta_number": 72,
+    "is_melakarta": true,
+    "arohana": "S R3 G3 M2 P D3 N3 S'",
+    "avarohana": "S' N3 D3 P M2 G3 R3 S",
+    "swaras": [
+      "S",
+      "R3",
+      "G3",
+      "M2",
+      "P",
+      "D3",
+      "N3",
+      "S'"
+    ]
+  }
+]

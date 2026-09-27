@@ -1,0 +1,129 @@
+[
+  {
+    "id": "pattachitra-rabi-sahoo",
+    "craft_name": "Pattachitra (Palm Leaf & Cloth Scroll Painting)",
+    "region": "Odisha",
+    "village": "Raghurajpur Heritage Crafts Village",
+    "connected_site_id": "konark-sun-temple",
+    "artisan": {
+      "id": "rabi-sahoo",
+      "name": "Guru Rabi Narayan Sahoo",
+      "years_of_tradition": "4th Generation Master Craftsman (34 Years Experience)",
+      "avatar_url": "/images/artisans/rabi_sahoo.webp",
+      "bio": "I learned to grind stone pigments and carve the dried palm leaf from my grandfather. Every curve of Krishna and the Sun Chariot is drawn freehand with an iron stylus without any pencil sketch.",
+      "video_reel": "/videos/pattachitra_making.mp4"
+    },
+    "craft_passport": {
+      "passport_id": "CP-OD-2026-0842",
+      "origin": "Raghurajpur, Puri, Odisha",
+      "materials_used": [
+        "Dried Palm Leaves (Tala Pattachitra)",
+        "Conch Shell White Pigment (Sankha)",
+        "Lampblack (Kajjala)",
+        "Hingula Vermilion",
+        "Tamarind Seed Gum"
+      ],
+      "technique": "Etching with iron stylus (Lekhani) followed by carbon lampblack rub and vegetable dye washing.",
+      "verifiable_stamp": "ODISHA STATE HANDICRAFTS CO-OP CERTIFIED",
+      "artisan_signature_date": "2026-04-12"
+    },
+    "products": [
+      {
+        "id": "prod-patta-01",
+        "title": "Surya & The Celestial Chariot Tala Pattachitra",
+        "price_inr": 3450,
+        "dimensions": "18\" x 12\" Framed Scroll",
+        "estimated_craft_hours": 48,
+        "image": "/images/products/pattachitra_surya.webp",
+        "description": "Authentic palm leaf etched scroll depicting Lord Surya riding the seven-horsed chariot, flanked by Aruna and dancing apsaras."
+      },
+      {
+        "id": "prod-patta-02",
+        "title": "Gita Govinda Circular Palm Leaf Bookmark Set",
+        "price_inr": 850,
+        "dimensions": "Set of 4 (7\" length)",
+        "estimated_craft_hours": 12,
+        "image": "/images/products/pattachitra_bookmarks.webp",
+        "description": "Hand-etched delicate palm leaf bookmarks tied with silk tassels, depicting scenes from Jayadeva's Gita Govinda."
+      }
+    ]
+  },
+  {
+    "id": "bidriware-rashid-ali",
+    "craft_name": "Bidriware (Silver Inlay on Blackened Zinc-Copper Alloy)",
+    "region": "Karnataka",
+    "village": "Bidar Craft Cluster",
+    "connected_site_id": "hampi-virupaksha",
+    "artisan": {
+      "id": "rashid-ali",
+      "name": "Ustad Rashid Ali Khan",
+      "years_of_tradition": "5th Generation National Awardee (40 Years Experience)",
+      "avatar_url": "/images/artisans/rashid_ali.webp",
+      "bio": "Our craft was born in the 14th century Bahmani sultanate. The black velvet patina on the metal comes from unique soil collected exclusively from the unlit depths of the Bidar fort ruins.",
+      "video_reel": "/videos/bidriware_making.mp4"
+    },
+    "craft_passport": {
+      "passport_id": "CP-KA-2026-0319",
+      "origin": "Bidar, Karnataka",
+      "materials_used": [
+        "Zinc (95%) & Copper (5%) Alloy",
+        "99.9% Pure Silver Wire Inlay",
+        "Historic Bidar Fort Soil Oxidizer"
+      ],
+      "technique": "Casting, chiselling floral groves, hammering fine pure silver wire (Tarkashi), and hot boiling in ammonium chloride fort soil.",
+      "verifiable_stamp": "GI TAG NO. 15 CERTIFIED - BIDRIWARE",
+      "artisan_signature_date": "2026-03-28"
+    },
+    "products": [
+      {
+        "id": "prod-bidri-01",
+        "title": "Poppy Flower (Aftaba) Bidriware Silver Vase",
+        "price_inr": 4800,
+        "dimensions": "8\" Height x 4\" Diameter",
+        "estimated_craft_hours": 62,
+        "image": "/images/products/bidri_vase.webp",
+        "description": "Hand-hammered silver wire floral motifs gleaming against jet-black oxidized metal, preserving 15th-century royal Deccan elegance."
+      }
+    ]
+  },
+  {
+    "id": "madhubani-sunita-devi",
+    "craft_name": "Madhubani / Mithila Painting",
+    "region": "Bihar",
+    "village": "Jitwarpur, Madhubani",
+    "connected_site_id": "ajanta-ellora-caves",
+    "artisan": {
+      "id": "sunita-devi",
+      "name": "Sunita Devi",
+      "years_of_tradition": "3rd Generation Mithila Artist (27 Years Experience)",
+      "avatar_url": "/images/artisans/sunita_devi.webp",
+      "bio": "I learned this sacred wall art from my mother using bamboo twigs and cotton swabs. We draw the Kohbar and Tree of Life to celebrate the eternal harmony between human beings and the natural cosmos.",
+      "video_reel": "/videos/madhubani_making.mp4"
+    },
+    "craft_passport": {
+      "passport_id": "CP-BR-2026-1104",
+      "origin": "Jitwarpur, Madhubani, Bihar",
+      "materials_used": [
+        "Handmade Cowdung-Treated Cotton Paper",
+        "Turmeric Yellow Pigment",
+        "Indigo Blue",
+        "Kusum Flower Red",
+        "Aparajita Petal Black"
+      ],
+      "technique": "Nib and bamboo quill painting with fine double-line borders filled with cross-hatching.",
+      "verifiable_stamp": "GI TAG NO. 22 CERTIFIED - MITHILA PAINTING",
+      "artisan_signature_date": "2026-05-02"
+    },
+    "products": [
+      {
+        "id": "prod-madhu-01",
+        "title": "Tree of Life (Jeevan Vriksha) Original Painting",
+        "price_inr": 2900,
+        "dimensions": "20\" x 16\" Natural Dye on Khadi Sheet",
+        "estimated_craft_hours": 36,
+        "image": "/images/products/madhubani_tree.webp",
+        "description": "Intricately detailed painting showing peacocks, fish, and blossoming lotus petals under the eternal Tree of Life."
+      }
+    ]
+  }
+]

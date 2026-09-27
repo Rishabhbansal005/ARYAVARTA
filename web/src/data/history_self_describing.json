@@ -1,0 +1,1261 @@
+{
+  "events": [
+    {
+      "id": "indus-dholavira-2500-bce",
+      "year": -2500,
+      "yearLabel": "c. 2500 BCE",
+      "era": "ancient",
+      "dynasty": [
+        "Indus Saraswati Civilization (Harappan)"
+      ],
+      "title": {
+        "en": "Harappan Hydraulic Engineering at Dholavira",
+        "native": "धौलावीरा सिन्धु-सरस्वती जल प्रबन्धन"
+      },
+      "summary": "The Harappan metropolis of Dholavira in the Rann of Kutch develops the ancient world's most sophisticated monumental stone reservoir and stormwater harvesting grid.",
+      "detail": "Archaeological excavations by the Archaeological Survey of India (ASI) under R.S. Bisht revealed Dholavira as a tripartite planned city with massive stone-cut reservoirs capable of storing 250,000 cubic meters of freshwater in an arid desert environment. Its monumental signpost in the undeciphered Indus script, limestone-faced fortifications, and sophisticated underground masonry drainage represent the urban apex of the Mature Harappan phase across the Saraswati-Sindhu basin.",
+      "location": {
+        "name": "Kotada Timba, Khadir Bet (Kutch)",
+        "modernName": "Dholavira, Gujarat",
+        "lat": 23.8864,
+        "lng": 70.2133
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1599839575945-a9e5af0c3fa5?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Excavated stone reservoir and citadel walls at UNESCO World Heritage Site of Dholavira",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "In the arid salt plains of Kutch around 2500 BCE, Harappan civil engineers carved massive stone reservoirs and cascade sluices, creating an urban civilization that prospered on maritime trade with Mesopotamia without large-scale warfare.",
+          "hi": "लगभग २५०० ईसा पूर्व कच्छ के रण में सिन्धु-सरस्वती सभ्यता के अभियंताओं ने विशाल शैलकृत जलाशयों और जल प्रणालियों का निर्माण किया, जिसने विश्व के प्राचीनतम नगर नियोजन की नींव रखी।"
+        }
+      },
+      "sources": [
+        "ASI Excavation Reports: Dholavira 1990–2005 (R.S. Bisht, 2015)",
+        "UNESCO World Heritage Inscription Dossier: Dholavira (2021)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Punjab & Haryana",
+          "rulingDynasty": "Mature Harappan Culture",
+          "happening": "Rakhigarhi and Kalibangan develop advanced grid-based mudbrick towns and copper metallurgy."
+        },
+        {
+          "region": "Peninsular South India",
+          "rulingDynasty": "Southern Neolithic Culture",
+          "happening": "Ashmounds and cattle-pastoralist settlements flourish along the Krishna and Tungabhadra river basins."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "dholavira-citadel"
+        ],
+        "festivals": [],
+        "ragas": [
+          "raga-bhairav"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "agate-bead-making",
+          "terracotta-pottery"
+        ]
+      }
+    },
+    {
+      "id": "rigveda-saraswati-1500-bce",
+      "year": -1500,
+      "yearLabel": "c. 1500 BCE",
+      "era": "ancient",
+      "dynasty": [
+        "Early Vedic Polities (Sapta Sindhu)"
+      ],
+      "title": {
+        "en": "Composition of the Rigveda on the Saraswati",
+        "native": "ऋग्वेद संहिता एवं सरस्वती स्तुति"
+      },
+      "summary": "Rishis in the Sapta Sindhu river basin compose the 1,028 suktas of the Rigveda, establishing the metaphysical foundation of Vedic philosophy, cosmic order (Rta), and mantra phonetics.",
+      "detail": "The Rigveda is humanity's oldest surviving sacred literature preserved through an immaculate oral transmission system (Padapatha and Ghanapatha) without textual variation. Composed predominantly on the banks of the Saraswati and Vipash (Beas) rivers, it extols the Saraswati as 'Ambitame, Naditame, Devitame' (best of mothers, best of rivers, best of goddesses) and contains the core philosophical hymns of creation (Nasadiya Sukta) and unity (Purusha Sukta).",
+      "location": {
+        "name": "Brahmavarta / Sapta Sindhu",
+        "modernName": "Kurukshetra / Saraswati Basin, Haryana",
+        "lat": 29.9695,
+        "lng": 76.8783
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Sacred birch-bark Sanskrit manuscript of Vedic hymns in Devanagari script",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "On the fertile banks of the sacred Saraswati River, Vedic seers chanted the Rigvedic mantras, articulating humanity's earliest inquiries into the cosmic source of existence and the radiant laws of dharma.",
+          "hi": "पवित्र सरस्वती नदी के पावन तट पर वैदिक ऋषियों ने ऋग्वेद की ऋचाओं का गान किया, जिसने सत्य, धर्म और ब्रह्माण्डीय व्यवस्था (ऋत) के शाश्वत सूत्रों को स्थापित किया।"
+        }
+      },
+      "sources": [
+        "Rigveda Samhita (Max Müller edition; Ralph T.H. Griffith translation, 1896)",
+        "Michael Witzel, 'The Development of the Vedic Canon' (Harvard, 1997)"
+      ],
+      "certainty": "debated",
+      "certaintyNote": "Exact date of Rigvedic composition is debated among scholars: Indologists range between 1700 BCE and 1200 BCE, while internal astronomical references are argued by Indian scholars to point to earlier millennia.",
+      "elsewhereInBharat": [
+        {
+          "region": "Ganga-Yamuna Doab",
+          "rulingDynasty": "Late Harappan / Ochre Coloured Pottery (OCP)",
+          "happening": "Transition to settled agricultural copper-hoard communities."
+        },
+        {
+          "region": "Tamil Nadu & Deccan",
+          "rulingDynasty": "Megalithic Iron Age Culture",
+          "happening": "Erection of dolmens and urn burials (Adichanallur excavations) establishing peninsular trade."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [],
+        "festivals": [
+          "guru-purnima"
+        ],
+        "ragas": [
+          "raga-bhairav",
+          "raga-yaman"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "vedic-chanting-tradition"
+        ]
+      }
+    },
+    {
+      "id": "buddha-parinirvana-483-bce",
+      "year": -483,
+      "yearLabel": "483 BCE",
+      "era": "ancient",
+      "dynasty": [
+        "Malla Republic & Haryanka Magadha (Bimbisara / Ajatashatru)"
+      ],
+      "title": {
+        "en": "Mahaparinirvana of Gautama Buddha at Kushinagar",
+        "native": "भगवान बुद्ध का महापरिनिर्वाण — कुशीनगर"
+      },
+      "summary": "Siddhartha Gautama, the Buddha, attains Mahaparinirvana under the Sala trees at Kushinagar after forty-five years of teaching the Four Noble Truths and the Eightfold Path.",
+      "detail": "Following his passing in the republican realm of the Mallas, the Buddha's relics were divided into eight portions among contemporary states including Magadha under Ajatashatru, the Licchavis of Vaishali, and the Shakyas of Kapilavastu. Ajatashatru convened the First Buddhist Council at the Saptaparni Cave in Rajgir, where the elder Mahakashyapa oversaw the codification of the Vinaya and Sutta Pitakas, marking Buddhism's emergence as a trans-regional intellectual movement.",
+      "location": {
+        "name": "Kushinara (Malla Republic)",
+        "modernName": "Kushinagar, Uttar Pradesh",
+        "lat": 26.7408,
+        "lng": 83.8889
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Reclining Buddha stone sculpture and Parinirvana Stupa at Kushinagar",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "At Kushinagar, the Buddha delivered his final counsel: 'All conditioned things are subject to decay; strive diligently for your own liberation.' His relics were consecrated in stupas across Magadha, initiating India's monumental Buddhist art tradition.",
+          "hi": "कुशीनगर के शाल वन में भगवान बुद्ध ने अंतिम उपदेश दिया: 'सभी संस्कार विनाशशील हैं, अप्रमाद के साथ अपना कल्याण सिद्ध करो।' उनके अवशेषों पर अष्ट महास्तूपों का निर्माण हुआ।"
+        }
+      },
+      "sources": [
+        "Mahaparinibbana Sutta (Digha Nikaya 16)",
+        "A.L. Basham, The Wonder That Was India (1954), ch. 7"
+      ],
+      "certainty": "widely-accepted",
+      "certaintyNote": "The Cantonese 'dotted record' tradition fixes the Parinirvana at 486 or 483 BCE; an alternative 'short chronology' championed by Heinz Bechert places it c. 400 BCE.",
+      "elsewhereInBharat": [
+        {
+          "region": "Magadha (Bihar)",
+          "rulingDynasty": "Haryanka Dynasty (Ajatashatru)",
+          "happening": "Ajatashatru expands Magadhan hegemony over Vaishali and fortifies Pataliputra."
+        },
+        {
+          "region": "Avanti (Malwa)",
+          "rulingDynasty": "Pradyota Dynasty",
+          "happening": "King Pradyota rules from Ujjain as a major commercial and Buddhist crossroads."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "parinirvana-stupa-kushinagar"
+        ],
+        "festivals": [
+          "buddha-purnima"
+        ],
+        "ragas": [
+          "raga-malkauns"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "buddhist-thangka-painting"
+        ]
+      }
+    },
+    {
+      "id": "chandragupta-founds-maurya-322-bce",
+      "year": -322,
+      "yearLabel": "322 BCE",
+      "era": "ancient",
+      "dynasty": [
+        "Maurya Empire"
+      ],
+      "title": {
+        "en": "Chandragupta Maurya & Chanakya Found the Maurya Empire",
+        "native": "चन्द्रगुप्त मौर्य एवं चाणक्य — मौर्य साम्राज्य की स्थापना"
+      },
+      "summary": "Advised by the master strategist Chanakya, Chandragupta Maurya overthrows the Nanda dynasty at Pataliputra, establishing Bharat's first subcontinental unified empire.",
+      "detail": "Operating from Takshashila and Magadha, Chandragupta and Chanakya capitalized on widespread discontent with Dhana Nanda. Following Alexander's retreat and the assassination of Macedonian satraps, Chandragupta liberated northwestern Bharat. In 305 BCE, he defeated Seleucus I Nicator on the Indus, acquiring the provinces of Paropamisadae (Kabul), Arachosia (Kandahar), and Gedrosia (Baluchistan). Chanakya authored the Arthashastra, codifying statecraft, espionage, military logistics, and public welfare.",
+      "location": {
+        "name": "Pataliputra",
+        "modernName": "Patna, Bihar",
+        "lat": 25.6093,
+        "lng": 85.1235
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1590073844006-33379778ae09?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Ancient Mauryan polished sandstone pillared hall remains at Kumrahar, Pataliputra",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "From the university city of Takshashila to the grand wooden palisades of Pataliputra, Chandragupta Maurya united the janapadas into a continental empire governed by Chanakya's groundbreaking administrative science.",
+          "hi": "तक्षशिला के आचार्य चाणक्य के मार्गदर्शन में चन्द्रगुप्त मौर्य ने मगध के नन्द वंश को उखाड़ फेंका और पाटलिपुत्र में भारत के प्रथम चक्रवर्ती साम्राज्य की स्थापना की।"
+        }
+      },
+      "sources": [
+        "Kautilya's Arthashastra (R. Shamasastry translation, 1915)",
+        "Romila Thapar, Aśoka and the Decline of the Mauryas (Oxford, 1961)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Gandhara & Punjab",
+          "rulingDynasty": "Maurya Military Administration",
+          "happening": "Expulsion of Seleucid garrisons; Takshashila becomes northern imperial viceroyalty."
+        },
+        {
+          "region": "Tamilakam (Far South)",
+          "rulingDynasty": "Early Chera, Chola, and Pandya Kingdoms",
+          "happening": "Early Sangam literature poets record contact with and defense against northern 'Vamba Moriyar' (Mauryan advance)."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "kumrahar-pataliputra"
+        ],
+        "festivals": [],
+        "ragas": [
+          "raga-bhairav"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "mauryan-polished-stonework"
+        ]
+      }
+    },
+    {
+      "id": "ashokan-edicts-257-bce",
+      "year": -257,
+      "yearLabel": "257 BCE",
+      "era": "ancient",
+      "dynasty": [
+        "Maurya Empire"
+      ],
+      "title": {
+        "en": "Ashoka Proclaims the Rock & Pillar Edicts of Dhamma",
+        "native": "सम्राट अशोक के धर्म-अभिलेख एवं सिंह चतुर्मुख स्तम्भ"
+      },
+      "summary": "Following his remorse after the Kalinga War, Emperor Ashoka engraves the Major Rock Edicts across the subcontinent in Brahmi, Kharosthi, and Greek, championing non-violence and ethical governance.",
+      "detail": "Ashoka's edicts represent the earliest deciphered historical inscriptions in South Asia. Written primarily in Prakrit in the Brahmi script, they were carved into living cliff-faces from Shahbazgarhi (Khyber Pakhtunkhwa) to Maski (Karnataka), and atop monolithic polished sandstone pillars crowned by animal capitals. The Sarnath Lion Capital, bearing the four lions and the 24-spoke Dharma Chakra, was adopted in 1950 as the official National Emblem of the Republic of India.",
+      "location": {
+        "name": "Rishipatana (Sarnath Deer Park)",
+        "modernName": "Sarnath, Varanasi, Uttar Pradesh",
+        "lat": 25.3811,
+        "lng": 83.0214
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1627894483216-2138af692e32?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Original Mauryan polished sandstone Ashoka Lion Capital preserved at ASI Museum, Sarnath",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "On the cliff-faces of Junagadh and the monolithic pillar of Sarnath, Ashoka carved royal declarations renouncing conquest by sword in favor of 'Dhammavijaya' (conquest through moral righteousness), ordering free hospitals for humans and animals alike.",
+          "hi": "सारनाथ के एकाश्मक स्तम्भ और भारत भर की चट्टानों पर सम्राट अशोक ने धम्म-लिपि उत्कीर्ण कराई, जिसमें युद्ध-विजय का त्याग कर सदाचार, अहिंसा और जन-कल्याण का संदेश दिया गया।"
+        }
+      },
+      "sources": [
+        "Corpus Inscriptionum Indicarum, Vol. I: Inscriptions of Asoka (E. Hultzsch, 1925)",
+        "Sarnath Archaeological Museum Records (ASI)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Kalinga (Odisha)",
+          "rulingDynasty": "Maurya Viceroyalty",
+          "happening": "Ashoka erects the Special Kalinga Edicts at Dhauli and Jaugada declaring 'All men are my children'."
+        },
+        {
+          "region": "Karnataka & Andhra",
+          "rulingDynasty": "Southern Mauryan Viceroyalty (Suvarnagiri)",
+          "happening": "Edicts carved at Maski, Brahmagiri, and Amaravati confirming the southernmost boundary of Mauryan rule."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "sarnath-lion-capital-pillar",
+          "dhauli-shanti-stupa"
+        ],
+        "festivals": [],
+        "ragas": [
+          "raga-bhairavi"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "mauryan-stonework"
+        ]
+      }
+    },
+    {
+      "id": "chandragupta-ii-vikramaditya-380-ce",
+      "year": 380,
+      "yearLabel": "380 CE",
+      "era": "ancient",
+      "dynasty": [
+        "Gupta Empire"
+      ],
+      "title": {
+        "en": "Chandragupta II Vikramaditya & the Classical Golden Age",
+        "native": "चन्द्रगुप्त द्वितीय 'विक्रमादित्य' — गुप्त स्वर्णयुग"
+      },
+      "summary": "Chandragupta II annexes the Western Kshatrapas of Gujarat, opens Arabian Sea maritime trade, patronizes Kalidasa and the Navaratnas, and erects the rustless Delhi Iron Pillar.",
+      "detail": "During the reign of Chandragupta II Vikramaditya (c. 380–415 CE), the Gupta Empire reached its artistic, scientific, and geopolitical meridian. Ruling from dual capitals at Pataliputra and Ujjain, his court nurtured Sanskrit literature's greatest poet Kalidasa. The six-ton, six-meter metallurgical marvel known as the Iron Pillar of Delhi (inscribed in classical Gupta Brahmi as the Vishnudhvaja of King Chandra) demonstrates corrosion-resistant phosphorus-rich wrought iron technology that remains uncorroded after sixteen centuries.",
+      "location": {
+        "name": "Mehrauli / Ujjain",
+        "modernName": "Mehrauli, New Delhi & Ujjain, MP",
+        "lat": 28.5244,
+        "lng": 77.1855
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80",
+        "altText": "The 4th-century rustless Iron Pillar of Chandragupta II Vikramaditya at the Qutb Complex, Delhi",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "Under Vikramaditya's patronage, Sanskrit court poetry reached perfection with Kalidasa's Shakuntala, while Gupta metallurgists forged the legendary rust-resistant Iron Pillar that has stood exposed to monsoon rains for 1,600 years without decay.",
+          "hi": "महाराजाधिराज विक्रमादित्य के शासनकाल में महाकवि कालिदास ने अभिज्ञानशाकुन्तलम् की रचना की, और गुप्त धातु-विज्ञानियों ने दिल्ली के महरौली लौह-स्तम्भ का निर्माण किया जो आज भी अविचल है।"
+        }
+      },
+      "sources": [
+        "Mehrauli Iron Pillar Sanskrit Inscription (Fleet, Gupta Inscriptions, 1888)",
+        "R.C. Majumdar, The Classical Age (Bharatiya Vidya Bhavan, 1954)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Deccan Plateau",
+          "rulingDynasty": "Vakataka Dynasty (Prabhavatigupta)",
+          "happening": "Gupta princess Prabhavatigupta serves as Vakataka regent; Ajanta Cave rock-cut paintings flourish."
+        },
+        {
+          "region": "Kanchipuram & Tamil Nadu",
+          "rulingDynasty": "Early Pallava Dynasty (Simhavarman)",
+          "happening": "Pallavas establish Kanchipuram as a major seat of Sanskrit and Tamil learning and Ghatika academies."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "mehrauli-iron-pillar",
+          "ajanta-caves"
+        ],
+        "festivals": [
+          "diwali"
+        ],
+        "ragas": [
+          "raga-darbari",
+          "raga-yaman"
+        ],
+        "danceForms": [
+          "bharatanatyam",
+          "kathak"
+        ],
+        "crafts": [
+          "gupta-gold-coinage",
+          "metallurgical-casting"
+        ]
+      }
+    },
+    {
+      "id": "nalanda-mahavihara-founding-427-ce",
+      "year": 427,
+      "yearLabel": "427 CE",
+      "era": "ancient",
+      "dynasty": [
+        "Gupta Empire (Kumaragupta I)"
+      ],
+      "title": {
+        "en": "Foundation of Nalanda Mahavihara University",
+        "native": "नालन्दा महाविहार विश्वविद्यालय की स्थापना"
+      },
+      "summary": "Emperor Kumaragupta I establishes Nalanda Mahavihara, which blossoms into the ancient world's premier residential university, housing 10,000 scholars and 2,000 teachers from across Asia.",
+      "detail": "Nalanda was a residential university of international renown featuring eight separate colleges, ten temples, and the magnificent nine-story library known as Dharmaganja (comprising Ratnasagara, Ratnodadhi, and Ratnaranjaka). Scholars from China, Korea, Japan, Tibet, and Central Asia studied logic (Nyaya), astronomy, medicine (Ayurveda), grammar, and Buddhist philosophy under legendary masters such as Aryabhata, Dharmakirti, Shilabhadra, and Nagarjuna.",
+      "location": {
+        "name": "Nalanda (Magadha)",
+        "modernName": "Nalanda, Rajgir, Bihar",
+        "lat": 25.1357,
+        "lng": 85.445
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1627894483216-2138af692e32?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Excavated red-brick monastic viharas and Sariputra Stupa ruins at Nalanda Mahavihara",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "Endowed by Kumaragupta I and later patronized by Harsha, Nalanda's red-brick lecture halls drew Xuanzang and students from throughout Asia to master the sciences, grammar, and philosophy across its nine-story libraries.",
+          "hi": "गुप्त सम्राट कुमारागुप्त प्रथम द्वारा स्थापित नालन्दा विश्वविद्यालय प्राचीन विश्व का महानतम आवासीय ज्ञानपीठ बना, जहाँ विश्व भर से आए १०,००० छात्र दर्शन, खगोल और आयुर्वेद का अध्ययन करते थे।"
+        }
+      },
+      "sources": [
+        "Xuanzang (Hiuen Tsang), Si-Yu-Ki: Buddhist Records of the Western World",
+        "UNESCO World Heritage Site Inscription Dossier: Nalanda Mahavihara (2016)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Gujarat & Western Coast",
+          "rulingDynasty": "Maitraka Dynasty of Vallabhi",
+          "happening": "Vallabhi University emerges as Nalanda's western sister institution for Buddhist and administrative sciences."
+        },
+        {
+          "region": "Odisha & Bengal",
+          "rulingDynasty": "Mathara & Gauda Kingdoms",
+          "happening": "Maritime expeditions depart from Tamralipti to Southeast Asia carrying Sanskrit treatises."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "nalanda-mahavihara-ruins"
+        ],
+        "festivals": [],
+        "ragas": [
+          "raga-bhimpalasi"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "palm-leaf-manuscripts"
+        ]
+      }
+    },
+    {
+      "id": "harsha-pulakeshin-battle-618-ce",
+      "year": 618,
+      "yearLabel": "618 CE",
+      "era": "medieval-imperial",
+      "dynasty": [
+        "Vatapi Chalukya Dynasty & Pushyabhuti Dynasty (Harsha)"
+      ],
+      "title": {
+        "en": "Battle of Narmada: Pulakeshin II Halts Harsha",
+        "native": "नर्मदा का महासंग्राम — पुलकेशिन् द्वितीय एवं हर्ष"
+      },
+      "summary": "Emperor Harsha of Kannauj attempts to expand his northern empire across the Vindhyas, but is decisively halted at the Narmada River by the Vatapi Chalukya monarch Pulakeshin II.",
+      "detail": "Documented in poet Ravikirti's famous Sanskrit Aihole Inscription (634 CE), the clash between the 'Sakalottarapathaswami' (Lord of the Entire North, Harsha) and the 'Dakshinapathaswami' (Lord of the South, Pulakeshin II) established the Narmada as the enduring geopolitical frontier between northern and peninsular Bharat. Xuanzang, who visited both courts, praised Harsha's grand assemblies at Prayag and the martial valor of the Chalukyan army and their war elephants.",
+      "location": {
+        "name": "Narmada Riverbanks / Aihole",
+        "modernName": "Narmada River, MP / Aihole, Bagalkot, Karnataka",
+        "lat": 16.0211,
+        "lng": 75.8824
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Meguti Jain Temple and 7th-century Aihole Inscription cliff in Karnataka",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "On the banks of the turbulent Narmada, Chalukya Pulakeshin II turned back Harsha's imperial legions, establishing southern sovereignty and inspiring the magnificent rock-cut cave temples of Badami and Pattadakal.",
+          "hi": "नर्मदा के तट पर वातापी के चालुक्य नरेश पुलकेशिन् द्वितीय ने सम्राट हर्ष के रथों को रोक दिया। इस ऐतिहासिक संधि ने विंध्याचल के उत्तर और दक्षिण की राजनैतिक सीमाओं को सुदृढ़ किया।"
+        }
+      },
+      "sources": [
+        "Aihole Inscription of Pulakeshin II composed by Ravikirti (Epigraphia Indica Vol. VI)",
+        "K.A. Nilakanta Sastri, A History of South India (Oxford, 1955)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Tamil Nadu",
+          "rulingDynasty": "Pallava Dynasty (Mahendravarman I)",
+          "happening": "Mahendravarman I initiates rock-cut temple architecture at Mamallapuram and Mandagapattu."
+        },
+        {
+          "region": "Assam (Kamarupa)",
+          "rulingDynasty": "Varman Dynasty (Bhaskaravarman)",
+          "happening": "King Bhaskaravarman alliances with Harsha, sending royal embassies and artists to Kannauj."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "badami-cave-temples",
+          "pattadakal-temples"
+        ],
+        "festivals": [],
+        "ragas": [
+          "raga-hamsadhwani"
+        ],
+        "danceForms": [
+          "bharatanatyam"
+        ],
+        "crafts": [
+          "chalukya-stone-reliefs"
+        ]
+      }
+    },
+    {
+      "id": "rajaraja-chola-brihadisvara-1010-ce",
+      "year": 1010,
+      "yearLabel": "1010 CE",
+      "era": "medieval-imperial",
+      "dynasty": [
+        "Imperial Chola Empire"
+      ],
+      "title": {
+        "en": "Rajaraja Chola Completes Brihadisvara Temple",
+        "native": "राजराज चोल — पेरुवुदैयार बृहदीश्वर मन्दिर तञ्जावूर"
+      },
+      "summary": "Rajaraja Chola I consecrates the monumental Peruvudaiyar (Brihadisvara) granite temple at Thanjavur, inaugurating the golden age of Dravidian temple architecture and Chola maritime power.",
+      "detail": "Brihadisvara is a monolithic granite architectural triumph built without mortar, culminating in a 66-meter vimana tower topped by an 80-ton single-block granite kumbham dome. Rajaraja recorded on the temple's base every donation, the names of 400 temple dancers (devadasis), bronze sculptors, musicians, and administrators. Under his son Rajendra I, the Chola blue-water navy conquered Sri Lanka, the Maldives, and launched an expedition across the Bay of Bengal to the Srivijaya Empire (Sumatra/Malaya) in 1025 CE.",
+      "location": {
+        "name": "Thanjavur",
+        "modernName": "Thanjavur, Tamil Nadu",
+        "lat": 10.7828,
+        "lng": 79.1318
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Towering 66-meter granite vimana of the Great Living Chola Brihadisvara Temple, Thanjavur",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "Constructed from over 130,000 tons of hard granite hauled by elephant ramps, Brihadisvara stands as an eternal monument to Chola engineering genius, lost-wax bronze casting, and trans-oceanic cultural exchange.",
+          "hi": "तञ्जावूर में राजराज चोल प्रथम ने विश्व के विशालतम ग्रेनाइट मन्दिर 'बृहदीश्वर' की प्रतिष्ठा की। इसका ६६ मीटर ऊंचा विमान और ८० टन का शिखर चोल स्थापत्य एवं नौसैनिक शक्ति का अनुपम प्रतीक है।"
+        }
+      },
+      "sources": [
+        "South Indian Inscriptions (SII), Vol. II: Tamil Inscriptions in the Rajarajesvara Temple at Tanjavur",
+        "UNESCO World Heritage Site: Great Living Chola Temples (1987, 2004)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "North India (Malwa)",
+          "rulingDynasty": "Paramara Dynasty (Raja Bhoja)",
+          "happening": "Polymath King Bhoja of Dhar rules Malwa, building the Bhojeshwar Temple and writing Samaranganasutradhara."
+        },
+        {
+          "region": "Bengal & Bihar",
+          "rulingDynasty": "Pala Empire (Mahipala I)",
+          "happening": "Mahipala restores Pala fortunes, renovating Nalanda and supporting Buddhist missionary missions to Tibet (Atisha Dipankara)."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "brihadisvara-temple-thanjavur"
+        ],
+        "festivals": [
+          "pongal",
+          "mahashivratri"
+        ],
+        "ragas": [
+          "raga-shankarabharanam",
+          "raga-kalyani"
+        ],
+        "danceForms": [
+          "bharatanatyam"
+        ],
+        "crafts": [
+          "chola-bronze-nataraja",
+          "tanjore-painting"
+        ]
+      }
+    },
+    {
+      "id": "delhi-sultanate-founding-1206-ce",
+      "year": 1206,
+      "yearLabel": "1206 CE",
+      "era": "medieval-imperial",
+      "dynasty": [
+        "Delhi Sultanate (Mamluk Dynasty)"
+      ],
+      "title": {
+        "en": "Coronation of Qutb ud-Din Aibak & Delhi Sultanate",
+        "native": "कुतुबुद्दीन ऐबक — दिल्ली सल्तनत की स्थापना एवं कुतुब मीनार"
+      },
+      "summary": "Following the assassination of Muhammad of Ghor, Qutb ud-Din Aibak establishes the Mamluk (Slave) Dynasty at Delhi, founding the Delhi Sultanate and commencing the Qutb Minar.",
+      "detail": "The establishment of the Delhi Sultanate in 1206 introduced Indo-Islamic architectural forms—combining the corbelled stone techniques of Indian artisans with the pointed arches, domes, and minarets of Persian tradition. The Qutb Minar, a 72.5-meter fluted red-sandstone victory tower decorated with intricate geometric bands and Arabic calligraphy, marked Delhi's emergence as an imperial metropolis alongside the iron pillar of the classical Gupta era.",
+      "location": {
+        "name": "Mehrauli / Lal Kot",
+        "modernName": "Mehrauli, New Delhi",
+        "lat": 28.5245,
+        "lng": 77.1855
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1585123388867-3bfe6dd4bdbf?auto=format&fit=crop&w=1200&q=80",
+        "altText": "72.5m fluted red sandstone Qutb Minar with balcony carvings at Mehrauli, Delhi",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "In 1206, the coronation of Qutb ud-Din Aibak began three centuries of Sultanate rule in Delhi, fusing indigenous Indian stonework with Islamic geometry to create the Indo-Islamic architectural synthesis seen at the Qutb Minar.",
+          "hi": "१२०६ ईस्वी में कुतुबुद्दीन ऐबक ने दिल्ली सल्तनत की नींव रखी। इसके साथ ही भारतीय कारीगरों की पत्थर तराशने की कला और इस्लामी ज्यामिति के संगम से कुतुब मीनार जैसी इंडो-इस्लामिक स्थापत्य कला का जन्म हुआ।"
+        }
+      },
+      "sources": [
+        "Minhaj-i Siraj Juzjani, Tabaqat-i Nasiri (c. 1260)",
+        "Percy Brown, Indian Architecture (Islamic Period), 1942"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Assam",
+          "rulingDynasty": "Kamata & Ahom Kingdoms",
+          "happening": "Chaolung Sukapha crosses the Patkai hills in 1228 to establish the 600-year Ahom kingdom in the Brahmaputra valley."
+        },
+        {
+          "region": "Odisha",
+          "rulingDynasty": "Eastern Ganga Dynasty (Narasimhadeva I)",
+          "happening": "Narasimhadeva I builds the monumental Sun Temple at Konark, defeating Sultanate incursions."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "qutb-minar-complex"
+        ],
+        "festivals": [
+          "eid-ul-fitr"
+        ],
+        "ragas": [
+          "raga-yaman"
+        ],
+        "danceForms": [
+          "kathak"
+        ],
+        "crafts": [
+          "jali-stone-carving",
+          "persian-calligraphy"
+        ]
+      }
+    },
+    {
+      "id": "vijayanagara-founding-1336-ce",
+      "year": 1336,
+      "yearLabel": "1336 CE",
+      "era": "medieval-imperial",
+      "dynasty": [
+        "Vijayanagara Empire (Sangama Dynasty)"
+      ],
+      "title": {
+        "en": "Founding of the Vijayanagara Empire at Hampi",
+        "native": "विजयनगर साम्राज्य की स्थापना — हम्पी तुङ्गभद्रा तट"
+      },
+      "summary": "Brothers Harihara I and Bukka Raya, guided by sage Vidyaranya of the Sringeri Sharada Peetham, found the Vijayanagara Empire on the banks of the Tungabhadra to protect Sanatana Dharma.",
+      "detail": "From its capital at Hampi (ancient Kishkindha), Vijayanagara grew into one of the largest and wealthiest metropolises of the medieval world, documented by Portuguese visitors Domingo Paes and Fernão Nunes as 'a city larger than Rome, with streets lined with rubies, pearls, and diamonds.' At its zenith under Sri Krishnadevaraya (1509–1529), it produced the Vittala Temple's musical granite pillars, the monolithic Stone Chariot, and a revival of Telugu and Sanskrit literature.",
+      "location": {
+        "name": "Vijayanagara / Hampi",
+        "modernName": "Hampi, Bellary, Karnataka",
+        "lat": 15.335,
+        "lng": 76.46
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1600100397608-f010f421a97d?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Monolithic granite Stone Chariot at the UNESCO World Heritage site of Vittala Temple, Hampi",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "Surrounded by the granite boulder hills of the Tungabhadra, Vijayanagara arose under Vidyaranya's blessings as a sanctuary of art, temple architecture, and international commerce, dominating South India for over two centuries.",
+          "hi": "ऋषि विद्यारण्य के मार्गदर्शन में हरिहर और बुक्का ने तुङ्गभद्रा के तट पर विजयनगर साम्राज्य की स्थापना की। कृष्णदेवराय के काल में हम्पी का पत्थर का रथ और संगीत स्तम्भ भारतीय कला के शिखर बने।"
+        }
+      },
+      "sources": [
+        "Domingo Paes & Fernão Nunes, Chronicle of Vijayanagar (Robert Sewell, A Forgotten Empire, 1900)",
+        "UNESCO World Heritage Site: Group of Monuments at Hampi (1986)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Delhi & Northern Plains",
+          "rulingDynasty": "Tughlaq Dynasty (Muhammad bin Tughlaq)",
+          "happening": "Tughlaq's forced capital transfer to Daulatabad provokes widespread rebellions across the Deccan."
+        },
+        {
+          "region": "Kashmir",
+          "rulingDynasty": "Shah Mir Dynasty",
+          "happening": "Shah Mir establishes the first Muslim Sultanate in the Kashmir valley."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "hampi-stone-chariot",
+          "vittala-temple"
+        ],
+        "festivals": [
+          "diwali",
+          "makar-sankranti"
+        ],
+        "ragas": [
+          "raga-mayamalavagowla",
+          "raga-kalyani"
+        ],
+        "danceForms": [
+          "kuchipudi",
+          "bharatanatyam"
+        ],
+        "crafts": [
+          "bidriware",
+          "stone-carving"
+        ]
+      }
+    },
+    {
+      "id": "akbar-fatehpur-sikri-1582-ce",
+      "year": 1582,
+      "yearLabel": "1582 CE",
+      "era": "medieval-imperial",
+      "dynasty": [
+        "Mughal Empire"
+      ],
+      "title": {
+        "en": "Akbar's Din-i-Ilahi & the Buland Darwaza at Fatehpur Sikri",
+        "native": "अकबर का सुलह-ए-कुल एवं बुलन्द दरवाज़ा — फतेहपुर सीकरी"
+      },
+      "summary": "Emperor Akbar institutes the policy of Sulh-i-Kul (universal peace), hosts multi-faith theological debates in the Ibadat Khana, and constructs the towering Buland Darwaza at Fatehpur Sikri.",
+      "detail": "Fatehpur Sikri, built from local red sandstone between 1571 and 1585, was Akbar's utopian capital honoring Sufi saint Shaikh Salim Chishti. The 54-meter Buland Darwaza ('Gate of Magnificence'), erected to commemorate the Gujarat campaign, blends Persian portal design with Hindu bracketed lintels. In the Ibadat Khana, scholars of Hinduism, Islam, Jainism, Christianity, and Zoroastrianism debated metaphysics, leading Akbar to mandate court translations of the Mahabharata (Razmnama) and Ramayana into Persian.",
+      "location": {
+        "name": "Fatehpur Sikri",
+        "modernName": "Fatehpur Sikri, Agra, Uttar Pradesh",
+        "lat": 27.0945,
+        "lng": 77.6677
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Towering 54-meter red sandstone Buland Darwaza triumphal gate at Fatehpur Sikri",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "At Fatehpur Sikri, Akbar brought together pandits, Jesuit priests, Jain acharyas, and Sufis in dialogue, creating an era of syncretic miniature painting, classical Hindustani dhrupad music under Miyan Tansen, and architectural harmony.",
+          "hi": "फतेहपुर सीकरी में अकबर ने इबादतखाना में सभी धर्मों के विद्वानों के संवाद से 'सुलह-ए-कुल' की नीति घोषित की, और मियां तानसेन के शास्त्रीय संगीत व नवरत्नों के साथ एक अद्वितीय सांस्कृतिक युग रचा।"
+        }
+      },
+      "sources": [
+        "Abu'l-Fazl, Ain-i-Akbari and Akbarnama (H. Beveridge translation)",
+        "UNESCO World Heritage Site: Fatehpur Sikri (1986)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Mewar (Rajasthan)",
+          "rulingDynasty": "Sisodia Dynasty (Maharana Pratap)",
+          "happening": "Maharana Pratap wages guerrilla warfare from the Aravalli hills following the Battle of Haldighati (1576)."
+        },
+        {
+          "region": "Punjab",
+          "rulingDynasty": "Sikh Guruship (Guru Ram Das & Guru Arjan Dev)",
+          "happening": "Construction of Amritsar Sarovar; compilation of the Adi Granth commences."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "fatehpur-sikri-buland-darwaza",
+          "taj-mahal"
+        ],
+        "festivals": [
+          "eid-ul-fitr"
+        ],
+        "ragas": [
+          "raga-mian-ki-todi",
+          "raga-darbari"
+        ],
+        "danceForms": [
+          "kathak"
+        ],
+        "crafts": [
+          "mughal-miniature-painting",
+          "chikankari-embroidery"
+        ]
+      }
+    },
+    {
+      "id": "shivaji-coronation-raigad-1674-ce",
+      "year": 1674,
+      "yearLabel": "1674 CE",
+      "era": "medieval-imperial",
+      "dynasty": [
+        "Maratha Empire"
+      ],
+      "title": {
+        "en": "Coronation of Chhatrapati Shivaji Maharaj at Raigad",
+        "native": "छत्रपति शिवाजी महाराज का राज्याभिषेक — रायगढ़ दुर्ग"
+      },
+      "summary": "Shivaji Bhonsle is coronated as Chhatrapati of the Maratha Empire at Raigad Fort, establishing Hindavi Swarajya with a formal council of eight ministers (Ashta Pradhan) and naval sea-forts.",
+      "detail": "On 6 June 1674 (Jyeshtha Shuddha Trayodashi), Pandit Gaga Bhatt of Varanasi presided over the Vedic coronation of Shivaji at the formidable hill-citadel of Raigad. Shivaji established 'Hindavi Swarajya' (self-rule of the Indian people), replaced Persian with Marathi and Sanskrit in state administrative lexicons (Rajya Vyavahara Kosha), pioneered Ganimi Kava (mobile guerrilla tactics), and built the Maratha Navy with island fortresses like Sindhudurg and Vijaydurg.",
+      "location": {
+        "name": "Raigad Fort",
+        "modernName": "Raigad, Mahad, Maharashtra",
+        "lat": 18.2346,
+        "lng": 73.4419
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Mountain ramparts and Rajsabha throne platform of Raigad Fort in the Sahyadri mountains",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "High upon the misty Sahyadri cliffs of Raigad, Shivaji was crowned with the golden umbrella of sovereignty, inaugurating the Maratha resurgence that broke imperial monopolies and championed local administrative freedom.",
+          "hi": "सह्याद्रि की दुर्गम पहाड़ियों पर स्थित रायगढ़ दुर्ग में गागा भट्ट द्वारा छत्रपति शिवाजी महाराज का राज्याभिषेक हुआ, जिसने 'हिन्दवी स्वराज्य' और अष्टप्रधान मण्डल की ऐतिहासिक नींव रखी।"
+        }
+      },
+      "sources": [
+        "Sabhasad Bakhar (Krishnaji Anant Sabhasad, 1697)",
+        "Jadunath Sarkar, Shivaji and His Times (1919)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Assam (Brahmaputra)",
+          "rulingDynasty": "Ahom Kingdom (Udayaditya Singha)",
+          "happening": "General Lachit Borphukan halts Mughal naval forces at the Battle of Saraighat (1671)."
+        },
+        {
+          "region": "Punjab & Delhi",
+          "rulingDynasty": "Sikh Guruship & Mughal Empire",
+          "happening": "Guru Tegh Bahadur martyred at Chandni Chowk in Delhi (1675) defending religious freedom of Kashmiri Pandits."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "raigad-fort",
+          "sindhudurg-sea-fort"
+        ],
+        "festivals": [
+          "diwali",
+          "gudi-padwa"
+        ],
+        "ragas": [
+          "raga-bhopali",
+          "raga-durga"
+        ],
+        "danceForms": [
+          "lavani"
+        ],
+        "crafts": [
+          "paithani-silk-weaving",
+          "maratha-weaponry"
+        ]
+      }
+    },
+    {
+      "id": "indian-rebellion-1857-ce",
+      "year": 1857,
+      "yearLabel": "1857 CE",
+      "era": "freedom-struggle",
+      "dynasty": [
+        "East India Company / Anti-Colonial Revolutionary Coalition (Bahadur Shah II)"
+      ],
+      "title": {
+        "en": "The Great Indian Rebellion of 1857",
+        "native": "प्रथम भारतीय स्वतंत्रता संग्राम — १८५७ की क्रांति"
+      },
+      "summary": "Sepoys at Meerut revolt on 10 May 1857 and march to Delhi, declaring Bahadur Shah Zafar Emperor of Hindustan and sparking a fourteen-month subcontinental uprising against the East India Company.",
+      "detail": "Sparked by Mangal Pandey's defiance at Barrackpore and the greased Enfield cartridges at Meerut, the uprising engulfed northern and central Bharat. Historic leadership emerged: Rani Lakshmibai defended Jhansi and died fighting at Gwalior ('the best and bravest of the rebel leaders' according to British General Hugh Rose); Nana Sahib and Tatya Tope commanded the Kanpur and Bundelkhand fronts; Kunwar Singh led Bihar at age 80; and Begum Hazrat Mahal rallied Awadh. The uprising forced the British Parliament to pass the Government of India Act 1858, dissolving the East India Company and transferring sovereignty to the British Crown.",
+      "location": {
+        "name": "Meerut, Delhi, Jhansi, Lucknow",
+        "modernName": "Delhi & Jhansi, UP",
+        "lat": 28.6562,
+        "lng": 77.241
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1592635196078-9fe3d54f2377?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Historic Lahori Gate and ramparts of Red Fort, epicentre of the 1857 uprising in Delhi",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "From Meerut to the ramparts of Jhansi Fort, Indian soldiers, peasants, and royal houses joined hands in an unprecedented liberation war, shaking the foundations of British colonial exploitation across the subcontinent.",
+          "hi": "१० मई १८५७ को मेरठ से शुरू हुई क्रांति की ज्वाला दिल्ली, झांसी, अवध और बिहार तक फैल गई। रानी लक्ष्मीबाई, तात्या टोपे और कुंवर सिंह के शौर्य ने ब्रिटिश ईस्ट इंडिया कंपनी की सत्ता को उखाड़ फेंका।"
+        }
+      },
+      "sources": [
+        "National Archives of India: 1857 Mutiny Records & State Papers",
+        "William Dalrymple, The Last Mughal: The Fall of a Dynasty, Delhi 1857 (2006)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Chotanagpur & Tribal Belts",
+          "rulingDynasty": "Santhal & Munda Tribal Leaders",
+          "happening": "Following the 1855 Santhal Hool rebellion under Sidhu and Kanhu, tribal guerillas resist British incursions in the forests."
+        },
+        {
+          "region": "Bombay & Madras Presidencies",
+          "rulingDynasty": "British Administrative Centres",
+          "happening": "Relative military containment allows Britain to channel naval reinforcements through port cities."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "red-fort-delhi",
+          "jhansi-fort"
+        ],
+        "festivals": [],
+        "ragas": [
+          "raga-desh",
+          "raga-kafi"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "traditional-indian-swords",
+          "khadi-handloom"
+        ]
+      }
+    },
+    {
+      "id": "jallianwala-bagh-1919-ce",
+      "year": 1919,
+      "yearLabel": "1919 CE",
+      "era": "freedom-struggle",
+      "dynasty": [
+        "British Raj (Indian National Congress Resistance)"
+      ],
+      "title": {
+        "en": "Jallianwala Bagh Massacre & Tagore's Knighthood Renunciation",
+        "native": "जलियांवाला बाग नरसंहार एवं टैगोर द्वारा 'सर' उपाधि का त्याग"
+      },
+      "summary": "British troops under Reginald Dyer fire without warning upon 20,000 unarmed citizens gathered peacefully at Jallianwala Bagh on Baisakhi, galvanizing the national freedom struggle.",
+      "detail": "On 13 April 1919, families assembled inside the walled enclosure of Jallianwala Bagh to protest the draconian Rowlatt Act and celebrate Baisakhi. Dyer blocked the sole narrow exit with troops and ordered 1,650 rounds fired until ammunition was exhausted, killing over 1,000 civilians. In historic protest, Nobel Laureate Rabindranath Tagore renounced his British Knighthood, writing to the Viceroy that 'the time has come when badges of honour make our shame glaring in their incongruous context of humiliation.' The atrocity led Mahatma Gandhi to launch the nationwide Non-Cooperation Movement.",
+      "location": {
+        "name": "Jallianwala Bagh",
+        "modernName": "Amritsar, Punjab",
+        "lat": 31.6206,
+        "lng": 74.8801
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1588096344356-9b578c7b8849?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Martyrs' Memorial and preserved bullet-marked walls at Jallianwala Bagh, Amritsar",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "On Baisakhi Day in Amritsar, colonial brutality claimed hundreds of innocent lives at Jallianwala Bagh, irrevocably alienating the Indian populace and transforming the independence struggle into an unyielding mass movement.",
+          "hi": "१३ अप्रैल १९१९ को बैसाखी के दिन अमृतसर के जलियांवाला बाग में निहत्थे नागरिकों पर जनरल डायर की गोलियों ने भारत के जनमानस को झकझोर दिया, जिसके विरोध में रवीन्द्रनाथ टैगोर ने अपनी नाइटहुड की उपाधि त्याग दी।"
+        }
+      },
+      "sources": [
+        "Hunter Commission Report: Disorders Inquiry Committee 1919–1920",
+        "Rabindranath Tagore's Letter of Renunciation to Viceroy Lord Chelmsford (31 May 1919)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Gujarat & Bombay",
+          "rulingDynasty": "Sabarmati Ashram (Mahatma Gandhi)",
+          "happening": "Gandhi launches the Satyagraha Sabha and formulates the framework for nationwide civil disobedience."
+        },
+        {
+          "region": "Bengal",
+          "rulingDynasty": "Anushilan Samiti & Jugantar",
+          "happening": "Revolutionary youth organizations intensify anti-colonial clandestine networks."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "jallianwala-bagh-memorial",
+          "golden-temple-amritsar"
+        ],
+        "festivals": [
+          "baisakhi"
+        ],
+        "ragas": [
+          "raga-desh"
+        ],
+        "danceForms": [
+          "bhangra"
+        ],
+        "crafts": [
+          "phulkari-embroidery"
+        ]
+      }
+    },
+    {
+      "id": "dandi-salt-march-1930-ce",
+      "year": 1930,
+      "yearLabel": "1930 CE",
+      "era": "freedom-struggle",
+      "dynasty": [
+        "British Raj (Civil Disobedience Movement)"
+      ],
+      "title": {
+        "en": "Mahatma Gandhi's 241-Mile Dandi Salt March",
+        "native": "दांडी नमक सत्याग्रह — महात्मा गांधी की पदयात्रा"
+      },
+      "summary": "Mahatma Gandhi leads 78 satyagrahis on a 24-day, 241-mile trek from Sabarmati Ashram to the Arabian Sea at Dandi, breaking the British salt monopoly with a pinch of natural sea-salt.",
+      "detail": "Beginning on 12 March 1930, the Salt Satyagraha mobilized millions worldwide against the oppressive colonial salt tax. On 6 April 1930 at 6:30 AM, Gandhi picked up a lump of salt from the coastal mudflats of Dandi, declaring: 'With this, I am shaking the foundations of the British Empire.' The non-violent act sparked nationwide civil disobedience; over 60,000 Indians including Sarojini Naidu, Jawaharlal Nehru, and C. Rajagopalachari were imprisoned as coastal villagers everywhere began manufacturing their own salt.",
+      "location": {
+        "name": "Sabarmati to Dandi Coast",
+        "modernName": "Dandi Beach, Navsari, Gujarat",
+        "lat": 20.888,
+        "lng": 72.8028
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Bronze memorial sculptures of Mahatma Gandhi leading the 78 marchers at National Salt Memorial, Dandi",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "Marching 241 miles under the blazing Gujarat sun, Gandhi weaponized a grain of salt as an international symbol of self-reliance (Swaraj) and non-violent resistance that paralyzed colonial revenues.",
+          "hi": "साबरमती आश्रम से दांडी के समुद्र तट तक २४१ मील की पदयात्रा कर ६ अप्रैल १९३० को गांधीजी ने नमक कानून तोड़ा। इस अहिंसक आन्दोलन ने देश के लाखों नागरिकों में स्वावलंबन और स्वराज्य की चेतना जगाई।"
+        }
+      },
+      "sources": [
+        "The Collected Works of Mahatma Gandhi (CWMG), Vol. 48–49 (Publications Division)",
+        "Webb Miller, 'They That Take the Sword' (United Press International eyewitness report)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Tamil Nadu Coast",
+          "rulingDynasty": "Vedaranyam Salt March (C. Rajagopalachari)",
+          "happening": "Rajaji leads marchers from Tiruchirappalli to Vedaranyam to break the salt law in the South."
+        },
+        {
+          "region": "North-West Frontier Province (NWFP)",
+          "rulingDynasty": "Khudai Khidmatgar (Frontier Gandhi)",
+          "happening": "Khan Abdul Ghaffar Khan mobilizes 100,000 non-violent 'Red Shirts' in Peshawar against colonial curfews."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "sabarmati-ashram",
+          "dandi-national-memorial"
+        ],
+        "festivals": [
+          "republic-day"
+        ],
+        "ragas": [
+          "raga-bhairavi",
+          "raga-khamaj"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "khadi-spinning-charkha"
+        ]
+      }
+    },
+    {
+      "id": "independence-day-1947-ce",
+      "year": 1947,
+      "yearLabel": "15 Aug 1947",
+      "era": "freedom-struggle",
+      "dynasty": [
+        "Dominion of India / Provisional Government of India"
+      ],
+      "title": {
+        "en": "Tryst with Destiny: Independence of India",
+        "native": "स्वतंत्रता का प्रभात — 'नियति से साक्षात्कार' (१५ अगस्त १९४७)"
+      },
+      "summary": "At the stroke of midnight on 15 August 1947, India awakens to life and freedom after two centuries of colonial rule as the Tricolor is unfurled over the ramparts of the Red Fort.",
+      "detail": "Addressing the Constituent Assembly in New Delhi at midnight, Prime Minister Jawaharlal Nehru delivered his immortal 'Tryst with Destiny' speech: 'At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom.' Across the nation, celebrations mixed with the acute tragedy of the Radcliffe Line partition of Punjab and Bengal, which displaced 15 million people. Sardar Vallabhbhai Patel immediately embarked on the monumental task of integrating 565 princely states into a unified sovereign nation.",
+      "location": {
+        "name": "Constituent Assembly & Red Fort",
+        "modernName": "Parliament House & Red Fort, New Delhi",
+        "lat": 28.6172,
+        "lng": 77.2081
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Original historic photo of the Indian National Tricolor being hoisted at the Red Fort, August 1947",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "At the midnight hour of 15 August 1947, India reclaimed its sovereignty. The Ashoka Chakra Tricolor replaced the Union Jack, heralding the birth of the world's largest democracy forged through sacrifice and constitutional brotherhood.",
+          "hi": "१५ अगस्त १९४७ की मध्यरात्रि को भारत ने स्वाधीनता का वरण किया। लाल किले की प्राचीर पर तिरंगा फहराया गया और पंडित जवाहरलाल नेहरू ने संसद भवन से राष्ट्र को 'नियति से साक्षात्कार' का अमर सन्देश दिया।"
+        }
+      },
+      "sources": [
+        "Constituent Assembly Debates (Official Report), Vol. V (14–15 August 1947)",
+        "V.P. Menon, The Story of the Integration of the Indian States (1956)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Punjab & Bengal Borders",
+          "rulingDynasty": "Partition Boundary Commission",
+          "happening": "Tragic cross-border migration and relief efforts along the newly delineated Radcliffe Line."
+        },
+        {
+          "region": "565 Princely States",
+          "rulingDynasty": "Ministry of States (Sardar Patel & V.P. Menon)",
+          "happening": "Signing of the Instruments of Accession creating the unified territorial framework of modern India."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "india-gate-delhi",
+          "red-fort-delhi"
+        ],
+        "festivals": [
+          "republic-day"
+        ],
+        "ragas": [
+          "raga-desh",
+          "raga-malkauns"
+        ],
+        "danceForms": [
+          "kathak",
+          "bharatanatyam"
+        ],
+        "crafts": [
+          "tiranga-khadi-weaving"
+        ]
+      }
+    },
+    {
+      "id": "constitution-adoption-1950-ce",
+      "year": 1950,
+      "yearLabel": "26 Jan 1950",
+      "era": "modern-republic",
+      "dynasty": [
+        "Republic of India"
+      ],
+      "title": {
+        "en": "Enactment of the Constitution of India",
+        "native": "भारत का संविधान लागू — संप्रभु लोकतांत्रिक गणराज्य"
+      },
+      "summary": "On 26 January 1950, the Constitution of India comes into effect, drafted under Dr. B.R. Ambedkar, establishing Bharat as a Sovereign Democratic Republic with universal adult suffrage.",
+      "detail": "Taking 2 years, 11 months, and 18 days to draft, the Constitution of India is the longest written constitution of any sovereign state in the world. It enshrined fundamental rights, abolished untouchability (Article 17), and granted universal adult franchise to every citizen regardless of gender, caste, or religion from day one. The original document was hand-calligraphed in English by Prem Behari Narain Raizada and illuminated with 22 masterwork paintings of 5,000 years of Indian history by Acharya Nandalal Bose of Santiniketan.",
+      "location": {
+        "name": "Central Hall of Parliament",
+        "modernName": "Samvidhan Sadan, New Delhi",
+        "lat": 28.6172,
+        "lng": 77.2081
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+        "altText": "Original illuminated preamble page of the Constitution of India calligraphed in 1950",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "On 26 January 1950, Dr. Rajendra Prasad was sworn in as the first President and the Constitution came into force, affirming justice, liberty, equality, and fraternity for all citizens under the sacred Ashoka Lion Capital seal.",
+          "hi": "२६ जनवरी १९५० को बाबासाहेब डॉ. भीमराव आंबेडकर द्वारा प्रारूपित भारतीय संविधान लागू हुआ। भारत एक सम्प्रभु गणराज्य बना और प्रत्येक वयस्क नागरिक को समान मताधिकार और मौलिक अधिकार प्राप्त हुए।"
+        }
+      },
+      "sources": [
+        "The Constitution of India (Calligraphed Original Copy, Parliament Library, New Delhi)",
+        "Granville Austin, The Indian Constitution: Cornerstone of a Nation (Clarendon Press, 1966)"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Pan-India",
+          "rulingDynasty": "Election Commission of India (Sukumar Sen)",
+          "happening": "Preparation of the first universal adult electoral rolls encompassing 173 million voters for the 1951–52 elections."
+        },
+        {
+          "region": "Kashmir & Hyderabad",
+          "rulingDynasty": "State Administrations",
+          "happening": "Constitutional integration and implementation of democratic reforms under the republican framework."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [
+          "india-gate-delhi",
+          "rashtrapati-bhavan"
+        ],
+        "festivals": [
+          "republic-day"
+        ],
+        "ragas": [
+          "raga-desh"
+        ],
+        "danceForms": [
+          "bharatanatyam",
+          "kathak"
+        ],
+        "crafts": [
+          "shantiniketan-illumination-art"
+        ]
+      }
+    },
+    {
+      "id": "isro-chandrayaan-3-2023-ce",
+      "year": 2023,
+      "yearLabel": "23 Aug 2023",
+      "era": "modern-republic",
+      "dynasty": [
+        "Republic of India (ISRO)"
+      ],
+      "title": {
+        "en": "Chandrayaan-3 Soft-Lands at Moon's South Pole",
+        "native": "चन्द्रयान-३ का चन्द्रमा के दक्षिणी ध्रुव पर ऐतिहासिक अवतरण (शिव शक्ति पॉइंट)"
+      },
+      "summary": "India's ISRO makes history as the Vikram lander touches down safely near the lunar south pole, making Bharat the first nation on Earth to reach the Moon's southern polar region.",
+      "detail": "On 23 August 2023 at 18:04 IST, ISRO's Chandrayaan-3 mission successfully soft-landed its Vikram lander and Pragyan rover at 69.37°S, 32.35°E on the Moon. The landing site was officially named 'Shiv Shakti Point' by the Government of India. The rover confirmed the in-situ presence of sulfur (S), aluminum, calcium, iron, and titanium on the lunar surface using its Laser-Induced Breakdown Spectroscope (LIBS), fulfilling the visionary space program founded in 1969 by Dr. Vikram Sarabhai.",
+      "location": {
+        "name": "Satish Dhawan Space Centre & Lunar South Pole",
+        "modernName": "Sriharikota, Andhra Pradesh & Shiv Shakti Point",
+        "lat": 13.7199,
+        "lng": 80.2304
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?auto=format&fit=crop&w=1200&q=80",
+        "altText": "LVM3 heavy lift rocket launch carrying Chandrayaan-3 towards the Moon from Sriharikota",
+        "verified": true
+      },
+      "chronicle": {
+        "text": {
+          "en": "From carrying rocket cones on bicycles in Thumba in 1963 to becoming the first nation to touch down at the lunar south pole in 2023, India's scientific brilliance and frugal innovation achieved cosmic greatness.",
+          "hi": "२३ अगस्त २०२३ को इसरो के चन्द्रयान-३ ने चन्द्रमा के दक्षिणी ध्रुव पर तिरंगा फहराकर भारत को यह उपलब्धि हासिल करने वाला विश्व का पहला देश बनाया। इस स्थल को 'शिव शक्ति पॉइंट' नाम दिया गया।"
+        }
+      },
+      "sources": [
+        "ISRO Official Mission Report: Chandrayaan-3 Lunar Science Findings (2023)",
+        "Nature Journal / Science Review: In-Situ Lunar Elemental Analysis by Pragyan Rover"
+      ],
+      "certainty": "established",
+      "elsewhereInBharat": [
+        {
+          "region": "Bengaluru (ISTRAC)",
+          "rulingDynasty": "ISRO Telemetry & Deep Space Network",
+          "happening": "Mission operations command receives first live images from Pragyan rover traversing lunar regolith."
+        },
+        {
+          "region": "Pan-India",
+          "rulingDynasty": "National Celebration",
+          "happening": "23 August designated as National Space Day across all schools, universities, and scientific institutions."
+        }
+      ],
+      "linkedEntities": {
+        "monuments": [],
+        "festivals": [
+          "republic-day"
+        ],
+        "ragas": [
+          "raga-bhoopali"
+        ],
+        "danceForms": [],
+        "crafts": [
+          "aerospace-precision-engineering"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+# ==========================================================
+# ĀRYĀVARTA - GITIGNORE
+# ==========================================================
+
+# Node & Next.js dependencies
+node_modules/
+*/node_modules/
+.pnp
+.pnp.js
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js & Turbopack build outputs
+.next/
+*/.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+
+# Python bytecode & virtual environments
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Scratch and temporary testing scripts
+scratch/
+*/scratch/
+web/scratch/
+
+# Secrets and environment variable files (CRITICAL: Do NOT commit)
+.env
+.env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+*.pem
+*.key
+
+# Logs & debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# System & OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vercel deployment cache
+.vercel

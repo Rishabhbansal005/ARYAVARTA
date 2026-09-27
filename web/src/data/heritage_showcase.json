@@ -1,0 +1,418 @@
+[
+  {
+    "id": "konark-sun-temple",
+    "name": "Konark Sun Temple",
+    "native_name": " କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର",
+    "state": "Odisha",
+    "district": "Puri",
+    "latitude": 19.8876,
+    "longitude": 86.0945,
+    "built_century": "13th Century (1250 CE)",
+    "builder": "King Narasimhadeva I",
+    "dynasty": "Eastern Ganga Dynasty",
+    "architectural_style": "Kalinga Architecture",
+    "unesco_world_heritage": true,
+    "tagline": "The Colossal Stone Chariot of the Sun God",
+    "summary": "Designed as a gargantuan 24-wheeled stone chariot drawn by seven horses carrying Surya across the heavens, Konark is the pinnacle of Odishan stone craftsmanship, astronomy, and architectural mathematics.",
+    "asset_note": "Full structure model — 901,598 faces, published 2025.",
+    "sketchfab": {
+      "model_id": "6cc905be2ae34e8091eb1eaa84a17738",
+      "creator": "moniln",
+      "creator_profile": "https://sketchfab.com/moniln9",
+      "license_label": "All Rights Reserved",
+      "license_note": "Public embed permitted by Sketchfab platform terms. No CC license set by creator — do not redistribute or use commercially.",
+      "embed_url": "https://sketchfab.com/models/6cc905be2ae34e8091eb1eaa84a17738/embed",
+      "license_flagged": true
+    },
+    "camera_presets": {
+      "full":   { "eye": [0, 15, 30],   "target": [0, 5, 0],  "label": "Full Temple" },
+      "close":  { "eye": [0, 5, 10],    "target": [0, 3, 0],  "label": "Sanctum View" },
+      "detail": { "eye": [-8, 2, 5],    "target": [-5, 1, 0], "label": "Chariot Wheels" }
+    },
+    "hotspots": [
+      {
+        "id": "natamandira",
+        "title": "Natamandira (Hall of Dance)",
+        "position": [1.4, 0.4, 0.8],
+        "category": "Sculpture & Dance",
+        "short_desc": "128 classical dance poses (karanas) from Bharata Muni's Natya Shastra carved in high relief.",
+        "extended_story": "The Natamandira served as a celestial stage where Maharis (temple dancers) performed Odissi in devotion to the rising sun. Every pillar depicts dancers holding vinas, mridangams, cymbals, and flutes.",
+        "connected_module": "nritya",
+        "connected_id": "odissi"
+      },
+      {
+        "id": "chariot-wheel",
+        "title": "Astronomical Chariot Wheel (Sundial)",
+        "position": [-1.8, -0.2, 0.5],
+        "category": "Science & Astronomy",
+        "short_desc": "9.9-foot diameter stone wheel functioning as a high-precision solar clock accurate to 3 minutes.",
+        "extended_story": "Each wheel has 8 major spokes representing the 8 prahars (3-hour periods) of the day. Time is calculated from the shadow cast by the hub onto the intricate bead carvings around the rim.",
+        "connected_module": "history",
+        "connected_id": "science-astronomy"
+      },
+      {
+        "id": "vimana-sanctum",
+        "title": "Vimana & Gajasimha",
+        "position": [0.0, 1.2, -1.0],
+        "category": "Architecture",
+        "short_desc": "Once standing 229 feet tall, the Deula sanctum was engineered to catch the very first rays of dawn.",
+        "extended_story": "The sanctum was capped by an iron lodestone that balanced the structure along magnetic meridians according to ancient Kalingan Shilpa Shastras.",
+        "connected_module": "heritage",
+        "connected_id": "kalinga-style"
+      },
+      {
+        "id": "chlorite-sculptures",
+        "title": "Green Chlorite Deities",
+        "position": [0.9, -0.1, -0.6],
+        "category": "Fine Art",
+        "short_desc": "Pristine dark chlorite stone sculptures of Surya riding his chariot at morning, noon, and evening.",
+        "extended_story": "Unlike the weathered khondalite sandstone of the main temple walls, the central niche images were carved from dense metamorphic green chlorite imported by sea, retaining their razor-sharp polish for 750 years.",
+        "connected_module": "bazaar",
+        "connected_id": "odisha-stonecraft"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Odissi",
+        "id": "odissi",
+        "description": "The sculptural curves of Konark's dancers define the quintessential Tribhanga posture of Odissi."
+      },
+      "music": {
+        "raga": "Raag Kalyan",
+        "id": "kalyan",
+        "description": "Evocative of sunset and dusk devotion in Kalinga temple rituals."
+      },
+      "craft": {
+        "name": "Pattachitra & Stone Carving",
+        "id": "pattachitra",
+        "artisan": "Rabi Narayan Sahoo",
+        "village": "Raghurajpur Heritage Village, Puri"
+      },
+      "festival": {
+        "name": "Konark Dance Festival & Chandrabhaga Mela",
+        "date": "December 1–5"
+      }
+    },
+    "audio_narration": {
+      "title": "The Legend of the Sun Chariot",
+      "duration": "2:45",
+      "narrator": "Vedic Scholar",
+      "ambient": "temple_bells_ocean_waves"
+    }
+  },
+  {
+    "id": "meenakshi-pillar-hall",
+    "name": "Meenakshi Temple — Pillar Hall",
+    "native_name": "மீனாட்சி அம்மன் கோவில் — தூண் மண்டபம்",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "latitude": 9.9195,
+    "longitude": 78.1193,
+    "built_century": "17th Century (main complex 1623–55 CE)",
+    "builder": "Tirumalai Nayak & predecessors",
+    "dynasty": "Nayak Dynasty (Vijayanagara successor)",
+    "architectural_style": "Dravidian / Tamil temple architecture",
+    "unesco_world_heritage": false,
+    "tagline": "A Carved Pillar from the Hall of a Thousand Pillars",
+    "summary": "⚠️ Detail piece — this 3D asset is a single sculpted pillar from Meenakshi Amman Temple's celebrated 'Ayirakkal Mandapam' (Hall of 1000 Pillars), Madurai, Tamil Nadu. Each pillar is unique, depicting deities, celestial beings, and mythological scenes. The full temple complex (dedicated to Meenakshi/Parvati & Sundareswarar/Shiva) covers 45 acres with 14 gopurams.",
+    "asset_note": "⚠️ DETAIL PIECE — single carved pillar, not the full temple complex.",
+    "sketchfab": {
+      "model_id": "4c302dacd8c34d0b9cda22ffd28636ec",
+      "creator": "antariksha",
+      "creator_profile": "https://sketchfab.com/antariksha_sanchar",
+      "license_label": "All Rights Reserved",
+      "license_note": "Public embed permitted by Sketchfab platform terms. No CC license set by creator.",
+      "embed_url": "https://sketchfab.com/models/4c302dacd8c34d0b9cda22ffd28636ec/embed",
+      "license_flagged": false
+    },
+    "camera_presets": {
+      "full":   { "eye": [0, 5, 10],   "target": [0, 2, 0], "label": "Full Pillar" },
+      "close":  { "eye": [0, 2, 4],    "target": [0, 1, 0], "label": "Mid Section" },
+      "detail": { "eye": [1, 3.5, 2],  "target": [0, 3, 0], "label": "Capital Detail" }
+    },
+    "hotspots": [
+      {
+        "id": "pillar-capital",
+        "title": "Ornate Pillar Capital",
+        "position": [0, 3, 0],
+        "category": "Dravidian Sculpture",
+        "short_desc": "The intricately carved capital (top section) depicts celestial beings in relief.",
+        "extended_story": "In the Ayirakkal Mandapam, each of the 985 remaining pillars (of the original 1008) was individually designed. The capital motifs cycle through Yali creatures, Gandharvas, and the eight directional guardians (Ashtadikpalas).",
+        "connected_module": "heritage",
+        "connected_id": "dravidian-style"
+      },
+      {
+        "id": "pillar-body",
+        "title": "Shaft Reliefs — Celestial Musicians",
+        "position": [0, 1.5, 0],
+        "category": "Iconography",
+        "short_desc": "Relief carvings of apsaras and gandharvas playing classical instruments.",
+        "extended_story": "The pillar shaft depicts the 64 Devasenas — celestial armies of Murugan — and accompanying musicians. The style is Pure Dravidian Kalaripayattu-influenced with deep undercutting to create vivid three-dimensionality.",
+        "connected_module": "sangeet",
+        "connected_id": "carnatic-acoustics"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Bharatanatyam",
+        "id": "bharatanatyam",
+        "description": "The sculptural dance poses on Meenakshi's pillars directly inspired classical Bharatanatyam adavus."
+      },
+      "music": {
+        "raga": "Raag Mayamalavagowla",
+        "id": "mayamalavagowla",
+        "description": "The foundational Melakartha raga, traditionally sung at dawn in Meenakshi's sanctum."
+      },
+      "craft": {
+        "name": "Tanjore Painting & Bronze Casting",
+        "id": "thanjavur-art",
+        "artisan": "Selvam Sthapati",
+        "village": "Swamimalai, Tamil Nadu"
+      },
+      "festival": {
+        "name": "Meenakshi Tirukalyanam",
+        "date": "Chithirai (April–May)"
+      }
+    }
+  },
+  {
+    "id": "meenakshi-gopuram",
+    "name": "Meenakshi Temple — Gopuram Guardian",
+    "native_name": "மீனாட்சி கோபுர காவலன்",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "latitude": 9.9195,
+    "longitude": 78.1193,
+    "built_century": "16th–17th Century",
+    "builder": "Nayak rulers of Madurai",
+    "dynasty": "Nayak Dynasty",
+    "architectural_style": "Dravidian Gopuram Architecture",
+    "unesco_world_heritage": false,
+    "tagline": "Rakshasa Guardian of the Sacred Gateway",
+    "summary": "⚠️ Detail piece — this 3D asset is a sculpted Rakshasa Dvārapāla (guardian figure) from the gopuram (entrance tower) of Meenakshi Amman Temple, Madurai. The full temple has 14 gopurams, the tallest reaching 52 metres, each covered in thousands of painted stucco figures of deities, demons, and celestial beings.",
+    "asset_note": "⚠️ DETAIL PIECE — single gateway guardian figure from Meenakshi Temple gopuram.",
+    "sketchfab": {
+      "model_id": "a01cd8c5f85b4b73bd0ebcb2143202fa",
+      "creator": "antariksha",
+      "creator_profile": "https://sketchfab.com/antariksha_sanchar",
+      "license_label": "All Rights Reserved",
+      "license_note": "Public embed permitted by Sketchfab platform terms. Referenced from Meenakshi Temple, Madurai — per creator description.",
+      "embed_url": "https://sketchfab.com/models/a01cd8c5f85b4b73bd0ebcb2143202fa/embed",
+      "license_flagged": false
+    },
+    "camera_presets": {
+      "full":   { "eye": [0, 4, 8],  "target": [0, 2, 0], "label": "Full Figure" },
+      "close":  { "eye": [0, 3, 4],  "target": [0, 3, 0], "label": "Face & Crown" },
+      "detail": { "eye": [2, 1, 3],  "target": [0, 1, 0], "label": "Hand & Weapon" }
+    },
+    "hotspots": [
+      {
+        "id": "rakshasa-face",
+        "title": "Kīrtimukha Crown",
+        "position": [0, 4, 0],
+        "category": "Iconography",
+        "short_desc": "The fierce face (Kīrtimukha — 'face of glory') represents the devouring aspect of time itself.",
+        "extended_story": "According to the Skanda Purana, Kīrtimukha is a face born of Shiva's wrath that was commanded to devour itself — symbolising the cyclical nature of creation and destruction. It appears above gopuram thresholds as a protective apotropaic symbol.",
+        "connected_module": "history",
+        "connected_id": "shaivism-symbols"
+      },
+      {
+        "id": "dvara-pala",
+        "title": "Dvārapāla — Gopuram Guardian",
+        "position": [0, 2, 0],
+        "category": "Temple Guardian Tradition",
+        "short_desc": "Every South Indian gopuram has paired guardian deities standing sentinel at sacred thresholds.",
+        "extended_story": "Dvārapālas (door guardians) at Meenakshi Temple carry clubs (gada) and conch shells. Their fierce forms protect the sacred from the profane — the act of crossing beneath them is itself a ritual purification.",
+        "connected_module": "heritage",
+        "connected_id": "dravidian-iconography"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Bharatanatyam",
+        "id": "bharatanatyam",
+        "description": "The fierce Ugra Nritta (fierce dance) aspect of Shiva depicted in gopuram figures inspired Bharatanatyam's Tandava sequences."
+      },
+      "music": {
+        "raga": "Raag Bhairavi",
+        "id": "bhairavi",
+        "description": "Evoking devotional surrender and the protective power of the goddess at Meenakshi's gateway."
+      },
+      "craft": {
+        "name": "Stucco Figure Craft (Sthapati tradition)",
+        "id": "sthapati-craft",
+        "artisan": "Muthaiah Sthapati",
+        "village": "Madurai, Tamil Nadu"
+      },
+      "festival": {
+        "name": "Meenakshi Tirukalyanam",
+        "date": "Chithirai (April–May)"
+      }
+    }
+  },
+  {
+    "id": "ellora-kailasa",
+    "name": "Ellora Caves — Kailasa Complex",
+    "native_name": "वेरूळ लेणी — कैलास मंदिर",
+    "state": "Maharashtra",
+    "district": "Chhatrapati Sambhaji Nagar",
+    "latitude": 20.0269,
+    "longitude": 75.1788,
+    "built_century": "8th Century CE (756–773 CE)",
+    "builder": "King Krishna I",
+    "dynasty": "Rashtrakuta Dynasty",
+    "architectural_style": "Rock-cut Monolithic Architecture",
+    "unesco_world_heritage": true,
+    "tagline": "The World's Largest Single Monolithic Rock Excavation",
+    "summary": "Ellora Cave 16 — the Kailasa Temple — was carved entirely top-down from a single basalt volcanic cliff, removing an estimated 200,000 tonnes of rock. Dedicated to Shiva as Mount Kailash, this 8th-century monolith stands as the largest known single rock excavation on Earth, featuring a two-storey gateway, courtyard, assembly hall, and main Shikhara tower — all carved from one unbroken mass of stone.",
+    "asset_note": "Photogrammetry 3D scan of Ellora Cave complex. CC Attribution 4.0 — GSXNet.",
+    "local_model": "/models/ellora_caves.glb",
+    "sketchfab": {
+      "model_id": "1a5ec1e212f9451e80dc051e97164d17",
+      "creator": "GSXNet",
+      "creator_profile": "https://sketchfab.com/gsxn",
+      "license_label": "CC Attribution 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "license_note": "Creative Commons Attribution. Author must be credited. Commercial use is allowed.",
+      "embed_url": "https://sketchfab.com/models/1a5ec1e212f9451e80dc051e97164d17/embed",
+      "license_flagged": false,
+      "is_photogrammetry": true
+    },
+    "camera_presets": {
+      "full":   { "eye": [0, 25, 50],  "target": [0, 5, 0],  "label": "Full Complex" },
+      "close":  { "eye": [0, 8, 15],   "target": [0, 4, 0],  "label": "Kailasa Tower" },
+      "detail": { "eye": [5, 3, 8],    "target": [0, 2, 0],  "label": "Cave Interior" }
+    },
+    "hotspots": [
+      {
+        "id": "kailasa-top-down",
+        "title": "Kailasa Cave 16 — Top-Down Excavation",
+        "position": [0.0, 0.5, 0.0],
+        "category": "Monolithic Engineering",
+        "short_desc": "Carved from top to bottom — zero room for measurement error.",
+        "extended_story": "Commissioned by Rashtrakuta King Krishna I (r. 756–773 CE), artisans began at the cliff summit and worked entirely downward, removing rock without scaffolding in the traditional sense. An estimated 200,000 tonnes of basalt were removed. The excavation features elephant friezes around its base as if living elephants are supporting the temple above.",
+        "connected_module": "heritage",
+        "connected_id": "monoliths"
+      },
+      {
+        "id": "shiva-panel",
+        "title": "Ravana Lifting Kailasha — Relief Panel",
+        "position": [2, 0.5, 0],
+        "category": "Sculpture",
+        "short_desc": "Masterpiece relief depicting the demon Ravana shaking Mount Kailasha with all 20 arms.",
+        "extended_story": "This panel is considered one of the supreme achievements of Indian sculpture. Ravana, lifting the mountain in his pride, is shown with 20 arms. Above, Parvati clutches Shiva in fear. Shiva calmly presses the mountain down with his big toe — an act of effortless supreme power. Shiva's calm expression versus Ravana's strain captures the theological concept of Shiva's imperturbable nature.",
+        "connected_module": "history",
+        "connected_id": "rashtrakuta-empire"
+      },
+      {
+        "id": "dharashiv-caves",
+        "title": "Buddhist & Jain Caves — Multi-Faith Complex",
+        "position": [-3, 0.5, 0],
+        "category": "Religious Heritage",
+        "short_desc": "Ellora's 100+ caves represent Buddhist, Hindu, and Jain traditions across 400 years.",
+        "extended_story": "Unlike Ajanta (purely Buddhist), Ellora's caves span all three great Indian religious traditions — 12 Buddhist (600–800 CE), 17 Hindu (600–900 CE), and 5 Jain (800–1000 CE). The co-existence of these faiths in one complex is remarkable evidence of religious pluralism in early medieval India.",
+        "connected_module": "history",
+        "connected_id": "religious-diversity"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Kathak",
+        "id": "kathak",
+        "description": "Kathak's Shiva Tandava sequences draw from the Nataraja sculptures found throughout the Ellora cave temples."
+      },
+      "music": {
+        "raga": "Raag Bhairav",
+        "id": "bhairav",
+        "description": "The solemn Bhairav raga — associated with Shiva's fierce aspect — is sung at dawn, mirroring Ellora's sacred dawn alignment."
+      },
+      "craft": {
+        "name": "Paithani Silk Weaving & Bidriware",
+        "id": "paithani",
+        "artisan": "Suresh Salve",
+        "village": "Yeola, Maharashtra"
+      },
+      "festival": {
+        "name": "Ellora Ajanta International Festival",
+        "date": "January"
+      }
+    }
+  },
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal",
+    "native_name": "تاج محل",
+    "state": "Uttar Pradesh",
+    "district": "Agra",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "built_century": "17th Century (1632–1653 CE)",
+    "builder": "Emperor Shah Jahan",
+    "dynasty": "Mughal Empire",
+    "architectural_style": "Mughal Architecture (Indo-Islamic)",
+    "unesco_world_heritage": true,
+    "tagline": "An Eternal Monument to Love and Mughal Grandeur",
+    "summary": "Commissioned by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, the Taj Mahal stands as the supreme achievement of Mughal architecture. Built by 20,000 artisans using white Makrana marble inlaid with 28 types of precious and semi-precious stones, the monument's design achieves perfect bilateral symmetry and changes colour with the light — pink at dawn, brilliant white at noon, and golden at sunset.",
+    "asset_note": "Offline 3D model converted from OBJ. Drag to orbit, scroll to zoom.",
+    "local_model": "/models/tajmahal.glb",
+    "camera_presets": {
+      "full":   { "eye": [0, 15, 40],  "target": [0, 5, 0],  "label": "Full View" },
+      "close":  { "eye": [0, 8, 18],   "target": [0, 6, 0],  "label": "Main Dome" },
+      "detail": { "eye": [10, 3, 10],  "target": [0, 2, 0],  "label": "Iwan Gate" }
+    },
+    "hotspots": [
+      {
+        "id": "central-dome",
+        "title": "The Central Onion Dome",
+        "position": [0, 4, 0],
+        "category": "Mughal Architecture",
+        "short_desc": "Rising 73 metres, the marble dome is surrounded by four smaller chhatris and changes colour throughout the day.",
+        "extended_story": "The dome's unique double-shell construction — an outer shell for visual grandeur and an inner shell for proportionate interior space — was a revolutionary Mughal engineering innovation. The finial at the top combines Islamic crescent and Hindu kalasha motifs, symbolising Shah Jahan's syncretic vision.",
+        "connected_module": "heritage",
+        "connected_id": "mughal-architecture"
+      },
+      {
+        "id": "pietra-dura",
+        "title": "Pietra Dura Inlay Work",
+        "position": [2, 1, 0],
+        "category": "Fine Craft",
+        "short_desc": "Over 28 varieties of precious stones inlaid into white Makrana marble — lapis lazuli, jade, carnelian, turquoise.",
+        "extended_story": "The pietra dura (stone inlay) technique was brought from Florence to Agra by Mughal artisans. The floral and calligraphic patterns were designed by Persian calligrapher Amanat Khan. The jasmine and lily motifs repeated across the tomb's surfaces represent paradise gardens (Char Bagh) of Islamic cosmology.",
+        "connected_module": "bazaar",
+        "connected_id": "agra-marble-craft"
+      },
+      {
+        "id": "char-bagh",
+        "title": "Char Bagh — Paradise Garden",
+        "position": [0, -1, 3],
+        "category": "Islamic Garden Design",
+        "short_desc": "The formal garden is divided into four quadrants by water channels, representing the four rivers of Paradise.",
+        "extended_story": "The Char Bagh (four-garden) layout is derived from the Quran's description of paradise (Jannah). The central reflecting pool perfectly mirrors the Taj Mahal, creating the iconic doubled image. Originally the garden contained 400 types of plants including roses, narcissus, and fruit trees.",
+        "connected_module": "history",
+        "connected_id": "mughal-gardens"
+      }
+    ],
+    "cultural_links": {
+      "dance": {
+        "name": "Kathak",
+        "id": "kathak",
+        "description": "Kathak dance flourished in Mughal courts of Agra and Lucknow — the same courts that commissioned the Taj Mahal."
+      },
+      "music": {
+        "raga": "Raag Yaman",
+        "id": "yaman",
+        "description": "Raag Yaman — performed at dusk — captures the romantic, longing quality associated with the Taj Mahal at twilight."
+      },
+      "craft": {
+        "name": "Agra Marble Inlay (Pietra Dura)",
+        "id": "agra-marble",
+        "artisan": "Haji Siddiqui",
+        "village": "Taj Ganj, Agra"
+      },
+      "festival": {
+        "name": "Taj Mahotsav",
+        "date": "February 18–27"
+      }
+    }
+  }
+]
