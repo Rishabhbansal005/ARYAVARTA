@@ -21,10 +21,9 @@
    - [4. History Atlas & Verified Dynastic Timeline](#4--history-atlas--verified-dynastic-timeline)
    - [5. Virasat & Roots: Diaspora Heritage Journey](#5--virasat--roots-diaspora-heritage-journey)
    - [6. Artisan Bazaar & GI-Tagged Living Traditions](#6--artisan-bazaar--gi-tagged-living-traditions)
-3. [📐 Mathematical & Shastric Formulations](#-mathematical--shastric-formulations)
-   - [Kinematic Joint Angle Calculation](#kinematic-joint-angle-calculation)
-   - [Procrustes 3D Shape Normalization & Alignment](#procrustes-3d-shape-normalization--alignment)
-   - [Vedic Harmonic Microtonal Tuning Ratios](#vedic-harmonic-microtonal-tuning-ratios)
+3. [📐 Biomechanical Evaluation & Shastric Tuning](#-biomechanical-evaluation--shastric-tuning)
+   - [How the AI Evaluates Posture Geometry](#how-the-ai-evaluates-posture-geometry)
+   - [Vedic Microtonal Frequency Reference](#vedic-microtonal-frequency-reference-madhya-sa--240-hz)
 4. [🏗️ System Architecture & Workflow](#️-system-architecture--workflow)
 5. [🔌 API Reference & Endpoints](#-api-reference--endpoints)
 6. [📂 Repository Directory Structure](#-repository-directory-structure)
@@ -98,36 +97,25 @@ India possesses one of the world's most intricate and ancient living cultural ec
 
 ---
 
-## 📐 Mathematical & Shastric Formulations
+## 📐 Biomechanical Evaluation & Shastric Tuning
 
-### Kinematic Joint Angle Calculation
-For any anatomical joint vertex $V$ connected to adjacent limbs $P_1$ and $P_2$:
-$$\vec{u} = P_1 - V, \quad \vec{v} = P_2 - V$$
-$$\cos \theta = \frac{\vec{u} \cdot \vec{v}}{\|\vec{u}\| \|\vec{v}\| + \epsilon}$$
-$$\theta = \arccos(\operatorname{clamp}(\cos \theta, -1, 1)) \times \frac{180^\circ}{\pi}$$
+### How the AI Evaluates Posture Geometry
+- **Joint Angle Calculation**: Angles at key joints (knees, elbows, neck, and hips) are computed using vector dot products between connecting limb keypoints and converted to degrees ($0^\circ$–$180^\circ$).
+- **Procrustes 3D Shape Alignment**: To score posture independently of dancer height, camera distance, or body proportions, 33 MediaPipe keypoints are normalized around the pelvic center (`midHip`) and scaled. The user's normalized silhouette is compared directly against canonical reference geometry derived from classical temple sculptures.
+- **Directional Angular Checks**: Distinguishes proper lateral deflections (e.g. head tilted towards right shoulder vs. incorrectly to the left, or correct heel raised in *Kunchita Pada*).
 
-### Procrustes 3D Shape Normalization & Alignment
-To evaluate posture independent of user height, camera distance, or frame offset, keypoints are centered at the pelvis and scaled by the Frobenius norm:
-$$\bar{x}_{\text{pelvis}} = \frac{x_{23} + x_{24}}{2}, \quad \bar{y}_{\text{pelvis}} = \frac{y_{23} + y_{24}}{2}$$
-$$s = \sqrt{\frac{1}{N} \sum_{i=1}^N \left( (x_i - \bar{x})^2 + (y_i - \bar{y})^2 \right)}$$
-$$P_{\text{norm}, i} = \left( \frac{x_i - \bar{x}}{s}, \, \frac{y_i - \bar{y}}{s} \right)$$
+### Vedic Microtonal Frequency Reference (Madhya Sa = 240 Hz)
 
-The Procrustes disparity metric $D$ against the canonical Natya Shastra stone reference $R$ is:
-$$D = \frac{1}{N} \sum_{i=1}^N \| P_{\text{norm}, i} - R_{\text{norm}, i} \|_2$$
-$$\text{Procrustes Score} = \operatorname{clamp}(100 - D \times 175, \, 20, \, 99)$$
-
-### Vedic Harmonic Microtonal Tuning Ratios
-
-| Swara | Full Vedic Name | Frequency Ratio | Exact Frequency (Sa = 240 Hz) | Harmonic Justification |
+| Swara | Vedic Note Name | Harmonic Ratio | Frequency | Shastric Interval |
 |---|---|---|---|---|
-| **Sa** | Shadjam | $1/1$ | $240.0\text{ Hz}$ | Fundamental Tonic |
-| **Ri** | Chatushruti Rishabham | $9/8$ | $270.0\text{ Hz}$ | Major Second |
-| **Ga** | Antara Gandharam | $5/4$ | $300.0\text{ Hz}$ | Natural Major Third |
-| **Ma** | Shuddha Madhyamam | $4/3$ | $320.0\text{ Hz}$ | Perfect Fourth |
-| **Pa** | Panchamam | $3/2$ | $360.0\text{ Hz}$ | Perfect Fifth |
-| **Dha** | Chatushruti Dhaivatam | $5/3$ | $400.0\text{ Hz}$ | Major Sixth |
-| **Ni** | Kakali Nishadham | $15/8$ | $450.0\text{ Hz}$ | Major Seventh |
-| **Sa'** | Tara Shadjam | $2/1$ | $480.0\text{ Hz}$ | Octave Higher |
+| **Sa** | Shadjam | 1 : 1 | 240.0 Hz | Fundamental Tonic |
+| **Ri** | Chatushruti Rishabham | 9 : 8 | 270.0 Hz | Major Second |
+| **Ga** | Antara Gandharam | 5 : 4 | 300.0 Hz | Natural Major Third |
+| **Ma** | Shuddha Madhyamam | 4 : 3 | 320.0 Hz | Perfect Fourth |
+| **Pa** | Panchamam | 3 : 2 | 360.0 Hz | Perfect Fifth |
+| **Dha** | Chatushruti Dhaivatam | 5 : 3 | 400.0 Hz | Major Sixth |
+| **Ni** | Kakali Nishadham | 15 : 8 | 450.0 Hz | Major Seventh |
+| **Sa'** | Tara Shadjam | 2 : 1 | 480.0 Hz | Octave Higher |
 
 ---
 
