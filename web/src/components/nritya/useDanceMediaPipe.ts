@@ -42,17 +42,20 @@ export function useDanceMediaPipe(active: boolean = false) {
 
         if (!mounted) return;
 
-        // Try local modelAssetPath first, fallback to CDN if needed
-        const poseLandmarker = await PoseLandmarker.createFromOptions(vision, {
-          baseOptions: {
-            modelAssetPath: "/models/pose_landmarker_lite.task",
-            delegate: "GPU"
-          },
-          runningMode: "VIDEO",
-          numPoses: 1
-        }).catch(async (e) => {
-          console.warn("GPU delegate fallback for pose landmarker:", e);
-          return await PoseLandmarker.createFromOptions(vision, {
+        // Initialize Pose Landmarker — try GPU first, fall back to CPU
+        let poseLandmarker: PoseLandmarker;
+        try {
+          poseLandmarker = await PoseLandmarker.createFromOptions(vision, {
+            baseOptions: {
+              modelAssetPath: "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task",
+              delegate: "GPU"
+            },
+            runningMode: "VIDEO",
+            numPoses: 1
+          });
+        } catch (gpuErr) {
+          console.warn("Pose GPU delegate failed, retrying with CPU:", gpuErr);
+          poseLandmarker = await PoseLandmarker.createFromOptions(vision, {
             baseOptions: {
               modelAssetPath: "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task",
               delegate: "CPU"
@@ -60,19 +63,24 @@ export function useDanceMediaPipe(active: boolean = false) {
             runningMode: "VIDEO",
             numPoses: 1
           });
-        });
+        }
 
-        // Initialize Hand Landmarker
-        const handLandmarker = await HandLandmarker.createFromOptions(vision, {
-          baseOptions: {
-            modelAssetPath: "/models/hand_landmarker.task",
-            delegate: "GPU"
-          },
-          runningMode: "VIDEO",
-          numHands: 2
-        }).catch(async (e) => {
-          console.warn("GPU delegate fallback for hand landmarker:", e);
-          return await HandLandmarker.createFromOptions(vision, {
+        if (!mounted) { poseLandmarker.close(); return; }
+
+        // Initialize Hand Landmarker — try GPU first, fall back to CPU (sequential to avoid WASM state conflicts)
+        let handLandmarker: HandLandmarker;
+        try {
+          handLandmarker = await HandLandmarker.createFromOptions(vision, {
+            baseOptions: {
+              modelAssetPath: "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task",
+              delegate: "GPU"
+            },
+            runningMode: "VIDEO",
+            numHands: 2
+          });
+        } catch (gpuErr) {
+          console.warn("Hand GPU delegate failed, retrying with CPU:", gpuErr);
+          handLandmarker = await HandLandmarker.createFromOptions(vision, {
             baseOptions: {
               modelAssetPath: "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task",
               delegate: "CPU"
@@ -80,7 +88,7 @@ export function useDanceMediaPipe(active: boolean = false) {
             runningMode: "VIDEO",
             numHands: 2
           });
-        });
+        }
 
         if (!mounted) {
           poseLandmarker?.close();
